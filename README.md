@@ -3,12 +3,14 @@
 </div>
 
 # MSDS_460_Group
-## Assignment 1
-### The linear programming code is in the following location: 
-    MSDS_460_Group/Group_Assign1/Linear_Program.ipynb
+
+## [Assignment 1](Group_Assign1/)
+
+### The linear programming code is here:
+
+[Jupyter Notebook](Group_Assign1/Linear_Program.ipynb)
+
 #### The programming outputs are in the following files:
-    MSDS_460_Group/Group_Assign1/results_lp.csv
-    MSDS_460_Group/Group_Assign1/results_lp_output.txt
 
-
-
+[Results Data](Group_Assign1/results_lp.csv)
+[Results Text Output](Group_Assign1/results_lp_output.txt)
