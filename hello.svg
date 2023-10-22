@@ -56,12 +56,12 @@
           animation: hi 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
-          justify-content: center;
+          justify-content: right;
         }
 
         .vertical-line {
-          position: absolute;
           display: flex;
+          flex-direction: column;
           height: 64%;
           width: 4.8px; 
           background-color: var(--color-bar);
