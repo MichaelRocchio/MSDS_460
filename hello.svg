@@ -52,7 +52,6 @@
 
         .hi {
           display: flex;
-          align-self: stretch;
           align-items: center;
           font-size: 2em;
           padding-bottom: 1%;
@@ -135,7 +134,6 @@
         <div class="header-container">
           <h1>Hi Professor, Welcome to our Group Github</h1>
         </div>
-        <div class="hi">👋</div>
         <div class="vertical-line"></div>
         <div class="members-container">
           <ul>
