@@ -46,44 +46,44 @@
           color: var(--color-text);
 
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-          font-size: 0.6em;
+          font-size: 0.55em;
+          flex-direction: row; /* Change direction to horizontal layout */
         }
 
         .hi {
           display: flex;
-          flex-direction: column;
           align-items: center;
+          font-size: 2em;
+          padding-bottom: 1%;
           animation: hi 1.5s linear -0.5s infinite;
-          display: inline-block;
-          transform-origin: 70% 70%;
-          justify-content: center;
+          transform-origin: 75% 75%;
+          margin-left: 8px;
         }
 
         .vertical-line {
-          position: absolute;
-          display: align-items;
-          height: 64%;
-          width: 4.8px; 
+          align-self: stretch;
+          width: .5%; 
           background-color: var(--color-bar);
-          left: 75%;
-          right: 25%;
+          margin-left: 16px;
+          margin-right: 0px;
         }
 
         .header-container {
           display: flex;
           flex-direction: column;
           align-items: center;
-          margin-left: 12px;
-          width: 78%;
+          margin-left: 2%;
+          width: 80%;
           height: 100%;
           justify-content: center;
+          flex: 1; /* Allow the container to grow as needed */
         }
 
         .members-container {
           display: flex;
           flex-direction: column;
           align-items: left;
-          width: 29%;
+          width: 28%;
           justify-content: space-between;
           height: 90%;
           padding-top: 8px;
@@ -97,11 +97,12 @@
         }
 
         .members-container ul li {
-          font-size: 1.0em;
+          font-size: 1.2em;
         }
 
         @media (prefers-color-scheme: light) {
           .container {
+            --color-bar: lightgray; 
             --color-main: #F15BB5;
             --color-primary: #24b0ef;
             --color-secondary: #4526f6;
@@ -111,8 +112,6 @@
 
         @media (prefers-color-scheme: dark) {
           .container {
-            --color-text: white;
-            --color-bar: darkgray; 
             --color-main: #c13da1;
             --color-primary: #1e8bd9;
             --color-secondary: #391fbd;
@@ -126,34 +125,17 @@
           }
           
           .hi {
-            margin-left: 8px;
+            margin-left: 0px;
           }
-        }
-
-        .hi {
-          display: inline-flex;
-          align-items: center;
-          animation: hi 1.5s linear -0.5s infinite;
-          transform-origin: 70% 70%;
-          margin-left: 8px;
-        }
-
-        .vertical-line {
-          position: absolute;
-          top: 25%;
-          left: 75%;
-          transform: translateY(-50%); /* Center vertically */
-          height: 77%;
-          width: 4.8px; 
-          background-color: var(--color-bar);
         }
       </style>
 
       <div class="container">
-        <div class="vertical-line"></div>
         <div class="header-container">
-          <h1>Hi Professor, Welcome to our Group Github<div class="hi">👋</div></h1>
+          <h1>Hi Professor, Welcome to our Group Github</h1>
         </div>
+        <div class="hi">👋</div>
+        <div class="vertical-line"></div>
         <div class="members-container">
           <ul>
             <h2>Mike Rocchio</h2>
