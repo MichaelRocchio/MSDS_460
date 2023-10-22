@@ -46,7 +46,7 @@
           color: var(--color-text);
 
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-          font-size: 0.6em; /* Scale down the base font-size */
+          font-size: 0.6em;
         }
 
         .hi {
@@ -56,18 +56,18 @@
           animation: hi 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
-          justify-content: right;
+          justify-content: center;
         }
 
         .vertical-line {
-          display: flex;
-          flex-direction: column;
+          position: absolute;
+          display: align-items;
           height: 64%;
           width: 4.8px; 
           background-color: var(--color-bar);
           left: 75%;
           right: 25%;
-                  }
+        }
 
         .header-container {
           display: flex;
@@ -113,10 +113,10 @@
           .container {
             --color-text: white;
             --color-bar: darkgray; 
-            --color-main: #c13da1; /* slightly darker version of #F15BB5 */
-            --color-primary: #1e8bd9; /* slightly darker version of #24b0ef */
-            --color-secondary: #391fbd; /* slightly darker version of #4526f6 */
-            --color-tertiary: #d6d62c; /* slightly darker version of #f6f645 */
+            --color-main: #c13da1;
+            --color-primary: #1e8bd9;
+            --color-secondary: #391fbd;
+            --color-tertiary: #d6d62c;
           }
         }
 
@@ -129,12 +129,30 @@
             margin-left: 8px;
           }
         }
+
+        .hi {
+          display: inline-flex;
+          align-items: center;
+          animation: hi 1.5s linear -0.5s infinite;
+          transform-origin: 70% 70%;
+          margin-left: 8px;
+        }
+
+        .vertical-line {
+          position: absolute;
+          top: 25%;
+          left: 75%;
+          transform: translateY(-50%); /* Center vertically */
+          height: 77%;
+          width: 4.8px; 
+          background-color: var(--color-bar);
+        }
       </style>
 
       <div class="container">
         <div class="vertical-line"></div>
         <div class="header-container">
-          <h1> Hi Professor, Welcome to our Group Github <div class="hi">👋</div></h1>
+          <h1>Hi Professor, Welcome to our Group Github<div class="hi">👋</div></h1>
         </div>
         <div class="members-container">
           <ul>
