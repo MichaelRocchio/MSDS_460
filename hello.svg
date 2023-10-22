@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 300" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -38,7 +38,7 @@
           animation: gradient 15s ease infinite;
 
           width: 100%;
-          height: 300px;
+          height: 100%;
 
           display: flex;
           justify-content: space-between;
@@ -57,7 +57,8 @@
 
         .vertical-line {
           position: absolute;
-          height: 100%;
+          display: flex;
+          height: 64%;
           width: 4.8px; 
           background-color: var(--color-bar);
           left: 75%;
@@ -70,6 +71,7 @@
           align-items: center;
           margin-left: 12px;
           width: 78%;
+          height: 100%;
           justify-content: center;
         }
 
