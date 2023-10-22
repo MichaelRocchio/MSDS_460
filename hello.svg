@@ -52,6 +52,7 @@
 
         .hi {
           display: flex;
+          align-self: stretch;
           align-items: center;
           font-size: 2em;
           padding-bottom: 1%;
