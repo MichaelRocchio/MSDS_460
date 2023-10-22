@@ -50,9 +50,13 @@
         }
 
         .hi {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
           animation: hi 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
+          justify-content: center;
         }
 
         .vertical-line {
