@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -38,7 +38,7 @@
           animation: gradient 15s ease infinite;
 
           width: 100%;
-          height: 100%;
+          height: 300px;
 
           display: flex;
           justify-content: space-between;
@@ -46,7 +46,7 @@
           color: var(--color-text);
 
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-          font-size: 0.8em; /* Scale down the base font-size */
+          font-size: 0.6em; /* Scale down the base font-size */
         }
 
         .hi {
@@ -57,28 +57,30 @@
 
         .vertical-line {
           position: absolute;
-          height: 61%;
-          width: 0.6%; 
+          height: 100%;
+          width: 4.8px; 
           background-color: var(--color-bar);
           left: 75%;
-          top: 0%; 
+          top: 0;
         }
 
         .header-container {
           display: flex;
           flex-direction: column;
           align-items: center;
-          width: 75%;
+          margin-left: 12px;
+          width: 78%;
           justify-content: center;
         }
 
         .members-container {
           display: flex;
           flex-direction: column;
-          align-items: center;
+          align-items: left;
           width: 29%;
           justify-content: space-between;
           height: 90%;
+          padding-top: 8px;
         }
 
         .members-container ul {
@@ -89,7 +91,7 @@
         }
 
         .members-container ul li {
-          font-size: 1.2em;
+          font-size: 1.0em;
         }
 
         @media (prefers-color-scheme: light) {
@@ -105,10 +107,10 @@
           .container {
             --color-text: white;
             --color-bar: darkgray; 
-            --color-main: #c13da1; 
-            --color-primary: #1e8bd9; 
-            --color-secondary: #391fbd; 
-            --color-tertiary: #d6d62c;
+            --color-main: #c13da1; /* slightly darker version of #F15BB5 */
+            --color-primary: #1e8bd9; /* slightly darker version of #24b0ef */
+            --color-secondary: #391fbd; /* slightly darker version of #4526f6 */
+            --color-tertiary: #d6d62c; /* slightly darker version of #f6f645 */
           }
         }
 
@@ -118,7 +120,7 @@
           }
           
           .hi {
-            margin-left: 10px;
+            margin-left: 8px;
           }
         }
       </style>
@@ -126,7 +128,7 @@
       <div class="container">
         <div class="vertical-line"></div>
         <div class="header-container">
-          <h1>Hi Professor, Welcome to our Group Github <div class="hi">👋</div></h1>
+          <h1> Hi Professor, Welcome to our Group Github <div class="hi">👋</div></h1>
         </div>
         <div class="members-container">
           <ul>
