@@ -1,0 +1,57 @@
+Results for best case:
+Optimal project duration: 70.0 hours
+Start times for tasks:
+Task A: 0.0 hours
+Task B: 0.0 hours
+Task C: 2.0 hours
+Task D1: 2.0 hours
+Task D2: 12.0 hours
+Task D3: 12.0 hours
+Task D4: 22.0 hours
+Task D5: 24.0 hours
+Task D6: 38.0 hours
+Task D7: 54.0 hours
+Task D8: 56.0 hours
+Task E: 8.0 hours
+Task F: 57.0 hours
+Task G: 57.0 hours
+Task H: 68.0 hours
+
+Results for expected case:
+Optimal project duration: 108.0 hours
+Start times for tasks:
+Task A: 0.0 hours
+Task B: 0.0 hours
+Task C: 4.0 hours
+Task D1: 4.0 hours
+Task D2: 20.0 hours
+Task D3: 20.0 hours
+Task D4: 36.0 hours
+Task D5: 40.0 hours
+Task D6: 60.0 hours
+Task D7: 84.0 hours
+Task D8: 88.0 hours
+Task E: 14.0 hours
+Task F: 90.0 hours
+Task G: 90.0 hours
+Task H: 104.0 hours
+
+Results for worst case:
+Optimal project duration: 152.0 hours
+Start times for tasks:
+Task A: 0.0 hours
+Task B: 0.0 hours
+Task C: 6.0 hours
+Task D1: 8.0 hours
+Task D2: 32.0 hours
+Task D3: 32.0 hours
+Task D4: 56.0 hours
+Task D5: 64.0 hours
+Task D6: 88.0 hours
+Task D7: 120.0 hours
+Task D8: 126.0 hours
+Task E: 22.0 hours
+Task F: 130.0 hours
+Task G: 130.0 hours
+Task H: 144.0 hours
+
