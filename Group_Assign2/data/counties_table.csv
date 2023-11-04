@@ -1,0 +1,399 @@
+"year","fips","pop2010","pop2023","state","stateCode","growthSince2010","name","ctyname","slug","landArea","density"
+2023,6037,9818605,10072629,"California","CA",0.025871699696647266,"Los Angeles County","Los Angeles County","los-angeles-county-ca",4058,2482.1658452439624
+2023,17031,5194675,5299802,"Illinois","IL",0.020237454701208524,"Cook County","Cook County","cook-county-il",945,5608.256084656085
+2023,48201,4092459,4922752,"Texas","TX",0.2028836452607099,"Harris County","Harris County","harris-county-tx",1705,2887.2445747800584
+2023,4013,3817117,4601603,"Arizona","AZ",0.2055179340848079,"Maricopa County","Maricopa County","maricopa-county-az",9200,500.1742391304348
+2023,6073,3095313,3359630,"California","CA",0.08539265657463391,"San Diego County","San Diego County","san-diego-county-ca",4207,798.5809365343475
+2023,6059,3010232,3240017,"California","CA",0.07633464796068878,"Orange County","Orange County","orange-county-ca",791,4096.102402022756
+2023,36047,2504700,2805485,"New York","NY",0.12008823411985459,"Kings County","Kings County","kings-county-ny",70,40078.357142857145
+2023,12086,2496435,2763366,"Florida","FL",0.10692487487156677,"Miami-Dade County","Miami-Dade County","miami--dade-county-fl",1899,1455.169036334913
+2023,48113,2368139,2687159,"Texas","TX",0.1347133761996233,"Dallas County","Dallas County","dallas-county-tx",873,3078.0744558991983
+2023,6065,2189641,2486747,"California","CA",0.13568708295104082,"Riverside County","Riverside County","riverside-county-ca",7206,345.093949486539
+2023,36081,2230722,2457886,"New York","NY",0.10183429400884547,"Queens County","Queens County","queens-county-ny",109,22549.4128440367
+2023,53033,1931249,2371204,"Washington","WA",0.22780853219859276,"King County","King County","king-county-wa",2116,1120.6068052930057
+2023,32003,1951269,2359718,"Nevada","NV",0.2093248034996713,"Clark County","Clark County","clark-county-nv",7891,299.0391585350399
+2023,6071,2035210,2225586,"California","CA",0.09354120704988667,"San Bernardino County","San Bernardino County","san-bernardino-county-ca",20057,110.96305529241661
+2023,48439,1809034,2201123,"Texas","TX",0.21673943109969196,"Tarrant County","Tarrant County","tarrant-county-tx",864,2547.596064814815
+2023,48029,1714773,2097689,"Texas","TX",0.2233041924499628,"Bexar County","Bexar County","bexar-county-tx",1240,1691.6846774193548
+2023,12011,1748066,2003268,"Florida","FL",0.1459910552576391,"Broward County","Broward County","broward-county-fl",1207,1659.708367854184
+2023,6085,1781642,1982645,"California","CA",0.11281896138505942,"Santa Clara County","Santa Clara County","santa-clara-county-ca",1290,1536.9341085271317
+2023,26163,1820584,1785455,"Michigan","MI",-0.019295456842419845,"Wayne County","Wayne County","wayne-county-mi",612,2917.4101307189544
+2023,6001,1510271,1733977,"California","CA",0.1481230851946438,"Alameda County","Alameda County","alameda-county-ca",739,2346.382949932341
+2023,36061,1585873,1726765,"New York","NY",0.08884191861517277,"New York County","New York County","new-york-county-ny",23,75076.73913043478
+2023,25017,1503085,1670678,"Massachusetts","MA",0.11149934967084363,"Middlesex County","Middlesex County","middlesex-county-ma",818,2042.393643031785
+2023,6067,1418788,1634936,"California","CA",0.15234693273413646,"Sacramento County","Sacramento County","sacramento-county-ca",965,1694.2341968911917
+2023,42101,1526006,1627134,"Pennsylvania","PA",0.0662697263313512,"Philadelphia County","Philadelphia County","philadelphia-county-pa",134,12142.791044776119
+2023,12099,1320134,1543809,"Florida","FL",0.1694335575024959,"Palm Beach County","Palm Beach County","palm-beach-county-fl",1970,783.6593908629442
+2023,36103,1493350,1535691,"New York","NY",0.0283530317741989,"Suffolk County","Suffolk County","suffolk-county-ny",912,1683.8717105263158
+2023,12057,1229226,1528924,"Florida","FL",0.24381033268089025,"Hillsborough County","Hillsborough County","hillsborough-county-fl",1020,1498.9450980392157
+2023,12095,1145956,1515093,"Florida","FL",0.32212144270809695,"Orange County","Orange County","orange-county-fl",903,1677.843853820598
+2023,36005,1385108,1498919,"New York","NY",0.082167599927226,"Bronx County","Bronx County","bronx-county-ny",42,35688.54761904762
+2023,36059,1339532,1412646,"New York","NY",0.054581749446821703,"Nassau County","Nassau County","nassau-county-ny",285,4956.652631578947
+2023,39049,1163414,1371924,"Ohio","OH",0.1792225295552572,"Franklin County","Franklin County","franklin-county-oh",532,2578.8045112781956
+2023,48453,1024266,1369964,"Texas","TX",0.33750803014060793,"Travis County","Travis County","travis-county-tx",992,1381.0120967741937
+2023,27053,1152425,1320307,"Minnesota","MN",0.14567715903421052,"Hennepin County","Hennepin County","hennepin-county-mn",554,2383.225631768953
+2023,26125,1202362,1296004,"Michigan","MI",0.07788170284822704,"Oakland County","Oakland County","oakland-county-mi",867,1494.8143021914648
+2023,39035,1280122,1260227,"Ohio","OH",-0.015541487451977254,"Cuyahoga County","Cuyahoga County","cuyahoga-county-oh",457,2757.608315098468
+2023,42003,1223348,1258747,"Pennsylvania","PA",0.028936165342976716,"Allegheny County","Allegheny County","allegheny-county-pa",730,1724.3109589041096
+2023,49035,1029655,1231912,"Utah","UT",0.19643181453982161,"Salt Lake County","Salt Lake County","salt-lake-county-ut",742,1660.2587601078167
+2023,6013,1049025,1200997,"California","CA",0.1448697600152522,"Contra Costa County","Contra Costa County","contra-costa-county-ca",723,1661.1300138312586
+2023,37183,900993,1197936,"North Carolina","NC",0.329573037748351,"Wake County","Wake County","wake-county-nc",835,1434.653892215569
+2023,37119,919628,1174237,"North Carolina","NC",0.276860861130805,"Mecklenburg County","Mecklenburg County","mecklenburg-county-nc",523,2245.195028680688
+2023,51059,1081726,1170883,"Virginia","VA",0.08242105671861455,"Fairfax County","Fairfax County","fairfax-county-va",391,2994.5856777493605
+2023,48085,782341,1149101,"Texas","TX",0.46879813278353044,"Collin County","Collin County","collin-county-tx",841,1366.3507728894174
+2023,13121,920581,1110549,"Georgia","GA",0.20635663781894253,"Fulton County","Fulton County","fulton-county-ga",527,2107.303605313093
+2023,24031,971777,1089145,"Maryland","MD",0.12077668024659971,"Montgomery County","Montgomery County","montgomery-county-md",493,2209.21906693712
+2023,4019,980263,1062384,"Arizona","AZ",0.0837744564468923,"Pima County","Pima County","pima-county-az",9187,115.63992598236639
+2023,15003,953207,1035498,"Hawaii","HI",0.08633067109242809,"Honolulu County","Honolulu County","honolulu-county-hi",601,1722.9584026622297
+2023,12031,864263,1034957,"Florida","FL",0.19750238064107806,"Duval County","Duval County","duval-county-fl",763,1356.4311926605506
+2023,6019,930450,1032114,"California","CA",0.10926325971304207,"Fresno County","Fresno County","fresno-county-ca",5959,173.20255076355093
+2023,36119,949113,1021059,"New York","NY",0.07580340802412366,"Westchester County","Westchester County","westchester-county-ny",431,2369.046403712297
+2023,29189,998954,1005676,"Missouri","MO",0.006729038574348811,"St. Louis County","St. Louis County","st-louis-county-mo",508,1979.6771653543308
+2023,13135,805321,1002584,"Georgia","GA",0.24494952944229698,"Gwinnett County","Gwinnett County","gwinnett-county-ga",430,2331.5906976744186
+2023,18097,903393,999346,"Indiana","IN",0.10621401759809967,"Marion County","Marion County","marion-county-in",396,2523.60101010101
+2023,24033,863420,998335,"Maryland","MD",0.156256514790021,"Prince George's County","Prince George's County","prince-george's-county-md",483,2066.946169772257
+2023,48121,662614,979565,"Texas","TX",0.4783342941742854,"Denton County","Denton County","denton-county-tx",879,1114.4084186575653
+2023,12103,916542,971875,"Florida","FL",0.06037148324899455,"Pinellas County","Pinellas County","pinellas-county-fl",274,3546.9890510948903
+2023,34003,905116,970918,"New Jersey","NJ",0.07270007380269483,"Bergen County","Bergen County","bergen-county-nj",233,4167.030042918455
+2023,9001,916829,969596,"Connecticut","CT",0.05755380774386509,"Fairfield County","Fairfield County","fairfield-county-ct",625,1551.3536
+2023,36029,919040,964796,"New York","NY",0.049786733983286924,"Erie County","Erie County","erie-county-ny",1043,925.0201342281879
+2023,53053,795225,958900,"Washington","WA",0.20582225156402267,"Pierce County","Pierce County","pierce-county-wa",1669,574.5356500898741
+2023,17043,916924,937662,"Illinois","IL",0.02261692354000977,"DuPage County","DuPage County","dupage-county-il",328,2858.7256097560976
+2023,55079,947735,937014,"Wisconsin","WI",-0.01131223390504732,"Milwaukee County","Milwaukee County","milwaukee-county-wi",241,3888.02489626556
+2023,47157,927644,930374,"Tennessee","TN",0.0029429393172379914,"Shelby County","Shelby County","shelby-county-tn",763,1219.3630406290956
+2023,6029,839631,930115,"California","CA",0.10776638785371184,"Kern County","Kern County","kern-county-ca",8132,114.37715199212985
+2023,9003,894014,901142,"Connecticut","CT",0.007973029505130791,"Hartford County","Hartford County","hartford-county-ct",735,1226.043537414966
+2023,48215,774769,899584,"Texas","TX",0.16109963098678448,"Hidalgo County","Hidalgo County","hidalgo-county-tx",1571,572.6187141947804
+2023,6075,805235,894584,"California","CA",0.11096015448906216,"San Francisco County","San Francisco County","san-francisco-county-ca",47,19033.702127659573
+2023,48157,585375,893999,"Texas","TX",0.527224428784967,"Fort Bend County","Fort Bend County","fort-bend-county-tx",862,1037.1218097447795
+2023,26099,840978,893289,"Michigan","MI",0.06220257842654631,"Macomb County","Macomb County","macomb-county-mi",479,1864.9039665970772
+2023,34013,783969,887656,"New Jersey","NJ",0.13225905616165945,"Essex County","Essex County","essex-county-nj",126,7044.888888888889
+2023,48141,800647,885160,"Texas","TX",0.10555588168069074,"El Paso County","El Paso County","el-paso-county-tx",1013,873.8005923000987
+2023,25027,798552,881179,"Massachusetts","MA",0.10347103256894985,"Worcester County","Worcester County","worcester-county-ma",1511,583.1760423560556
+2023,34023,809858,879152,"New Jersey","NJ",0.08556314810744592,"Middlesex County","Middlesex County","middlesex-county-nj",309,2845.1521035598707
+2023,42091,799874,873557,"Pennsylvania","PA",0.09211825862573364,"Montgomery County","Montgomery County","montgomery-county-pa",483,1808.606625258799
+2023,24005,805029,869388,"Maryland","MD",0.07994618827396271,"Baltimore County","Baltimore County","baltimore-county-md",598,1453.8260869565217
+2023,9009,862477,865543,"Connecticut","CT",0.003554877405426371,"New Haven County","New Haven County","new-haven-county-ct",604,1433.01821192053
+2023,53061,713335,862343,"Washington","WA",0.20888923156721595,"Snohomish County","Snohomish County","snohomish-county-wa",2087,413.1974125539051
+2023,6111,823318,849999,"California","CA",0.03240667639964134,"Ventura County","Ventura County","ventura-county-ca",1843,461.2040151926207
+2023,41051,735334,839455,"Oregon","OR",0.1415968797852405,"Multnomah County","Multnomah County","multnomah-county-or",431,1947.691415313225
+2023,39061,802374,839117,"Ohio","OH",0.045792859688873255,"Hamilton County","Hamilton County","hamilton-county-oh",406,2066.7906403940888
+2023,25009,743159,829830,"Massachusetts","MA",0.11662510983517649,"Essex County","Essex County","essex-county-ma",493,1683.2251521298174
+2023,25025,722023,820709,"Massachusetts","MA",0.13667985645886627,"Suffolk County","Suffolk County","suffolk-county-ma",58,14150.155172413793
+2023,40109,718633,819590,"Oklahoma","OK",0.1404847815226966,"Oklahoma County","Oklahoma County","oklahoma-county-ok",709,1155.9802538787023
+2023,6077,685306,807412,"California","CA",0.178177339757714,"San Joaquin County","San Joaquin County","san-joaquin-county-ca",1391,580.4543493889288
+2023,12071,618754,803443,"Florida","FL",0.2984853431250545,"Lee County","Lee County","lee-county-fl",784,1024.7997448979593
+2023,21111,741096,795530,"Kentucky","KY",0.07345067305720177,"Jefferson County","Jefferson County","jefferson-county-ky",380,2093.5
+2023,13067,688078,789570,"Georgia","GA",0.14750071939518494,"Cobb County","Cobb County","cobb-county-ga",340,2322.264705882353
+2023,13089,691893,786129,"Georgia","GA",0.1362002506167861,"DeKalb County","DeKalb County","dekalb-county-ga",268,2933.3171641791046
+2023,6081,718451,778239,"California","CA",0.08321792300379571,"San Mateo County","San Mateo County","san-mateo-county-ca",448,1737.140625
+2023,36055,744344,763973,"New York","NY",0.02637087153251727,"Monroe County","Monroe County","monroe-county-ny",657,1162.820395738204
+2023,8041,622263,762834,"Colorado","CO",0.22590287386523067,"El Paso County","El Paso County","el-paso-county-co",2127,358.6431593794076
+2023,12105,602095,761931,"Florida","FL",0.26546641310756613,"Polk County","Polk County","polk-county-fl",1797,424.0016694490818
+2023,34017,634266,752031,"New Jersey","NJ",0.18567131140562476,"Hudson County","Hudson County","hudson-county-nj",46,16348.5
+2023,8031,600158,750130,"Colorado","CO",0.24988752961720073,"Denver County","Denver County","denver-county-co",153,4902.81045751634
+2023,47037,626681,742644,"Tennessee","TN",0.1850431080565711,"Davidson County","Davidson County","davidson-county-tn",504,1473.5
+2023,25021,670850,742520,"Massachusetts","MA",0.1068346128046509,"Norfolk County","Norfolk County","norfolk-county-ma",396,1875.050505050505
+2023,29095,674158,730119,"Missouri","MO",0.08300873089097816,"Jackson County","Jackson County","jackson-county-mo",604,1208.8062913907286
+2023,17097,703462,717606,"Illinois","IL",0.02010627439719559,"Lake County","Lake County","lake-county-il",444,1616.2297297297298
+2023,11001,601723,715891,"District of Columbia","",0.1897351439117334,"District of Columbia County","District of Columbia County","district-of-columbia-county-dc",61,11735.918032786885
+2023,49049,516564,702251,"Utah","UT",0.3594656228463462,"Utah County","Utah County","utah-county-ut",2004,350.4246506986028
+2023,17197,677560,701995,"Illinois","IL",0.03606322687289687,"Will County","Will County","will-county-il",837,838.7037037037037
+2023,40143,603403,689043,"Oklahoma","OK",0.14192836296803302,"Tulsa County","Tulsa County","tulsa-county-ok",570,1208.8473684210526
+2023,35001,662564,680608,"New Mexico","NM",0.027233595546996225,"Bernalillo County","Bernalillo County","bernalillo-county-nm",1161,586.2256675279931
+2023,8005,572003,679991,"Colorado","CO",0.18878921963696005,"Arapahoe County","Arapahoe County","arapahoe-county-co",798,852.1190476190476
+2023,1073,658466,679599,"Alabama","AL",0.03209429188447088,"Jefferson County","Jefferson County","jefferson-county-al",1111,611.7002700270027
+2023,26081,602622,674579,"Michigan","MI",0.11940652681116859,"Kent County","Kent County","kent-county-mi",848,795.4941037735849
+2023,44007,626667,670962,"Rhode Island","RI",0.07068347304070577,"Providence County","Providence County","providence-county-ri",410,1636.4926829268293
+2023,48339,455746,669853,"Texas","TX",0.4697945785591098,"Montgomery County","Montgomery County","montgomery-county-tx",1042,642.8531669865642
+2023,48491,422679,664919,"Texas","TX",0.5731063052576542,"Williamson County","Williamson County","williamson-county-tx",1118,594.7397137745975
+2023,34029,576567,655427,"New Jersey","NJ",0.13677508424866502,"Ocean County","Ocean County","ocean-county-nj",629,1042.014308426073
+2023,42017,625249,652925,"Pennsylvania","PA",0.04426396523624998,"Bucks County","Bucks County","bucks-county-pa",604,1081.0016556291391
+2023,34025,630380,647587,"New Jersey","NJ",0.027296234017576637,"Monmouth County","Monmouth County","monmouth-county-nj",468,1383.732905982906
+2023,20091,544179,629567,"Kansas","KS",0.15691160445368157,"Johnson County","Johnson County","johnson-county-ks",473,1331.0084566596195
+2023,12009,543376,625584,"Florida","FL",0.15129118694973642,"Brevard County","Brevard County","brevard-county-fl",1015,616.3389162561576
+2023,41067,529710,621570,"Oregon","OR",0.17341564252137953,"Washington County","Washington County","washington-county-or",724,858.5220994475138
+2023,31055,517110,604752,"Nebraska","NE",0.16948424899924586,"Douglas County","Douglas County","douglas-county-ne",328,1843.7560975609756
+2023,24003,537656,603441,"Maryland","MD",0.1223551862157215,"Anne Arundel County","Anne Arundel County","anne-arundel-county-md",415,1454.0746987951807
+2023,8059,534543,597421,"Colorado","CO",0.11762945169986327,"Jefferson County","Jefferson County","jefferson-county-co",764,781.9646596858639
+2023,12101,464697,591048,"Florida","FL",0.27189975403327327,"Pasco County","Pasco County","pasco-county-fl",748,790.1711229946524
+2023,25005,548285,588476,"Massachusetts","MA",0.07330311790400978,"Bristol County","Bristol County","bristol-county-ma",553,1064.1518987341772
+2023,34039,536499,587000,"New Jersey","NJ",0.09413065075610572,"Union County","Union County","union-county-nj",103,5699.0291262135925
+2023,55025,488073,583533,"Wisconsin","WI",0.19558549643188616,"Dane County","Dane County","dane-county-wi",1197,487.49624060150376
+2023,42045,558979,582185,"Pennsylvania","PA",0.04151497641235191,"Delaware County","Delaware County","delaware-county-pa",184,3164.0489130434785
+2023,10003,538479,580391,"Delaware","DE",0.07783404738160637,"New Castle County","New Castle County","new-castle-county-de",426,1362.4201877934272
+2023,24510,620961,575133,"Maryland","MD",-0.07380173634092957,"Baltimore City County","Baltimore City County","baltimore-city-county-md",81,7100.407407407408
+2023,12127,494593,571228,"Florida","FL",0.15494558151854143,"Volusia County","Volusia County","volusia-county-fl",1101,518.8265213442326
+2023,27123,508640,565465,"Minnesota","MN",0.1117194872601448,"Ramsey County","Ramsey County","ramsey-county-mn",152,3720.1644736842104
+2023,6099,514453,564404,"California","CA",0.09709536148102926,"Stanislaus County","Stanislaus County","stanislaus-county-ca",1495,377.52775919732443
+2023,42071,519445,563046,"Pennsylvania","PA",0.08393766423779225,"Lancaster County","Lancaster County","lancaster-county-pa",944,596.4470338983051
+2023,53063,471221,559775,"Washington","WA",0.1879245619359069,"Spokane County","Spokane County","spokane-county-wa",1764,317.3327664399093
+2023,37081,488406,557166,"North Carolina","NC",0.14078451124679048,"Guilford County","Guilford County","guilford-county-nc",646,862.4860681114551
+2023,45045,451225,547827,"South Carolina","SC",0.21408831514211313,"Greenville County","Greenville County","greenville-county-sc",785,697.8687898089172
+2023,42029,498886,545072,"Pennsylvania","PA",0.09257826437302308,"Chester County","Chester County","chester-county-pa",751,725.7949400798934
+2023,8001,441603,542963,"Colorado","CO",0.2295274262176661,"Adams County","Adams County","adams-county-co",1167,465.2639245929734
+2023,25023,494919,541589,"Massachusetts","MA",0.09429825890701315,"Plymouth County","Plymouth County","plymouth-county-ma",659,821.834597875569
+2023,39153,541781,540023,"Ohio","OH",-0.0032448535478357687,"Summit County","Summit County","summit-county-oh",413,1307.5617433414043
+2023,39113,535153,537957,"Ohio","OH",0.00523962306106851,"Montgomery County","Montgomery County","montgomery-county-oh",462,1164.409090909091
+2023,20173,498365,531462,"Kansas","KS",0.06641116450794105,"Sedgwick County","Sedgwick County","sedgwick-county-ks",998,532.5270541082165
+2023,34031,501226,530985,"New Jersey","NJ",0.059372418829031215,"Passaic County","Passaic County","passaic-county-nj",186,2854.7580645161293
+2023,53011,425363,526696,"Washington","WA",0.2382271142530028,"Clark County","Clark County","clark-county-wa",629,837.3545310015899
+2023,34007,513657,526434,"New Jersey","NJ",0.02487457583562569,"Camden County","Camden County","camden-county-nj",221,2382.054298642534
+2023,16001,392365,525747,"Idaho","ID",0.3399436748945497,"Ada County","Ada County","ada-county-id",1053,499.2849002849003
+2023,17089,515269,516897,"Illinois","IL",0.003159514738903413,"Kane County","Kane County","kane-county-il",520,994.0326923076923
+2023,34027,492276,514388,"New Jersey","NJ",0.04491789158927095,"Morris County","Morris County","morris-county-nj",460,1118.2347826086957
+2023,19153,430640,510929,"Iowa","IA",0.18644111090469995,"Polk County","Polk County","polk-county-ia",574,890.1202090592335
+2023,51153,402002,506264,"Virginia","VA",0.2593569186222955,"Prince William County","Prince William County","prince-william-county-va",336,1506.7380952380952
+2023,32031,421407,506016,"Nevada","NV",0.20077739572432352,"Washoe County","Washoe County","washoe-county-nv",6302,80.29450967946684
+2023,36085,468730,503853,"New York","NY",0.0749322637765879,"Richmond County","Richmond County","richmond-county-ny",58,8687.120689655172
+2023,18089,496005,499510,"Indiana","IN",0.007066461023578441,"Lake County","Lake County","lake-county-in",499,1001.0220440881764
+2023,47093,432226,492993,"Tennessee","TN",0.1405908020341211,"Knox County","Knox County","knox-county-tn",508,970.4586614173228
+2023,6097,483878,490357,"California","CA",0.013389738735797074,"Sonoma County","Sonoma County","sonoma-county-ca",1576,311.14022842639594
+2023,12117,422718,485298,"Florida","FL",0.1480419570493805,"Seminole County","Seminole County","seminole-county-fl",309,1570.5436893203882
+2023,6107,442179,482399,"California","CA",0.09095863892224632,"Tulare County","Tulare County","tulare-county-ca",4824,99.99979270315092
+2023,36067,467026,479363,"New York","NY",0.026416088183527364,"Onondaga County","Onondaga County","onondaga-county-ny",778,616.1478149100257
+2023,25013,463490,466527,"Massachusetts","MA",0.00655246067876325,"Hampden County","Hampden County","hampden-county-ma",617,756.1215559157213
+2023,51810,437994,465914,"Virginia","VA",0.06374516545888764,"Virginia Beach City County","Virginia Beach City County","virginia-beach-city-county-va",250,1863.656
+2023,34005,448734,465799,"New Jersey","NJ",0.03802921106936408,"Burlington County","Burlington County","burlington-county-nj",799,582.9774718397997
+2023,6095,413344,465536,"California","CA",0.1262677092204072,"Solano County","Solano County","solano-county-ca",822,566.345498783455
+2023,42133,434972,462879,"Pennsylvania","PA",0.06415815270868008,"York County","York County","york-county-pa",904,512.0342920353983
+2023,22033,440171,461764,"Louisiana","LA",0.0490559350797759,"East Baton Rouge Parish","East Baton Rouge Parish","east-baton-rouge-parish-la",455,1014.8659340659341
+2023,6083,423895,455528,"California","CA",0.07462461222708461,"Santa Barbara County","Santa Barbara County","santa-barbara-county-ca",2735,166.55502742230348
+2023,51107,312311,453554,"Virginia","VA",0.45225112147827007,"Loudoun County","Loudoun County","loudoun-county-va",516,878.9806201550388
+2023,27037,398552,452281,"Minnesota","MN",0.1348105140609004,"Dakota County","Dakota County","dakota-county-mn",562,804.770462633452
+2023,12115,379448,450374,"Florida","FL",0.1869188927073011,"Sarasota County","Sarasota County","sarasota-county-fl",556,810.0251798561151
+2023,6053,415057,446229,"California","CA",0.07510293766880216,"Monterey County","Monterey County","monterey-county-ca",3281,136.0039622066443
+2023,22051,432552,443250,"Louisiana","LA",0.02473228652277637,"Jefferson Parish","Jefferson Parish","jefferson-parish-la",296,1497.4662162162163
+2023,4021,375770,440111,"Arizona","AZ",0.17122441919259113,"Pinal County","Pinal County","pinal-county-az",5366,82.0184494968319
+2023,41005,375992,435024,"Oregon","OR",0.15700334049660625,"Clackamas County","Clackamas County","clackamas-county-or",1870,232.6331550802139
+2023,42011,411442,434072,"Pennsylvania","PA",0.05500167702859704,"Berks County","Berks County","berks-county-pa",856,507.0934579439252
+2023,33011,400721,429603,"New Hampshire","NH",0.07207508465990053,"Hillsborough County","Hillsborough County","hillsborough-county-nh",876,490.41438356164383
+2023,39095,441815,428117,"Ohio","OH",-0.03100392698301324,"Lucas County","Lucas County","lucas-county-oh",341,1255.475073313783
+2023,45019,350209,425644,"South Carolina","SC",0.21539994688885788,"Charleston County","Charleston County","charleston-county-sc",916,464.6768558951965
+2023,45079,384504,425639,"South Carolina","SC",0.10698198198198194,"Richland County","Richland County","richland-county-sc",757,562.2708058124174
+2023,48061,406220,425457,"Texas","TX",0.04735611245138105,"Cameron County","Cameron County","cameron-county-tx",891,477.5050505050505
+2023,12097,268685,424647,"Florida","FL",0.5804641122504048,"Osceola County","Osceola County","osceola-county-fl",1328,319.76430722891564
+2023,12081,322833,422774,"Florida","FL",0.3095749195404436,"Manatee County","Manatee County","manatee-county-fl",743,569.0094212651413
+2023,6061,348432,421632,"California","CA",0.2100840336134453,"Placer County","Placer County","placer-county-ca",1407,299.6673773987207
+2023,29183,360485,418696,"Missouri","MO",0.1614796732180257,"St. Charles County","St. Charles County","st-charles-county-mo",560,747.6714285714286
+2023,1097,412992,415355,"Alabama","AL",0.00572166046799949,"Mobile County","Mobile County","mobile-county-al",1229,337.9617575264443
+2023,55133,389891,412105,"Wisconsin","WI",0.0569748981125493,"Waukesha County","Waukesha County","waukesha-county-wi",550,749.2818181818182
+2023,12069,297052,410026,"Florida","FL",0.38031725085170276,"Lake County","Lake County","lake-county-fl",939,436.66240681576147
+2023,36071,372813,409860,"New York","NY",0.09937153479090055,"Orange County","Orange County","orange-county-ny",812,504.7536945812808
+2023,1089,334811,404155,"Alabama","AL",0.20711386423982492,"Madison County","Madison County","madison-county-al",802,503.9339152119701
+2023,5119,382748,404039,"Arkansas","AR",0.05562667865018245,"Pulaski County","Pulaski County","pulaski-county-ar",759,532.33069828722
+2023,26049,425790,400337,"Michigan","MI",-0.0597782944644073,"Genesee County","Genesee County","genesee-county-mi",637,628.4725274725274
+2023,39017,368130,397026,"Ohio","OH",0.07849401026811176,"Butler County","Butler County","butler-county-oh",467,850.1627408993576
+2023,22071,343829,396048,"Louisiana","LA",0.15187491456508906,"Orleans Parish","Orleans Parish","orleans-parish-la",169,2343.4792899408285
+2023,18003,355329,394434,"Indiana","IN",0.11005293685570283,"Allen County","Allen County","allen-county-in",657,600.3561643835617
+2023,34021,366513,393589,"New Jersey","NJ",0.07387459653545703,"Mercer County","Mercer County","mercer-county-nj",225,1749.2844444444445
+2023,41039,351715,392349,"Oregon","OR",0.11553104075743148,"Lane County","Lane County","lane-county-or",4553,86.17373160553481
+2023,37067,350670,392166,"North Carolina","NC",0.11833347591752941,"Forsyth County","Forsyth County","forsyth-county-nc",408,961.1911764705883
+2023,12021,321520,392021,"Florida","FL",0.21927407315252556,"Collier County","Collier County","collier-county-fl",1999,196.10855427713858
+2023,48039,313166,389689,"Texas","TX",0.2443528352375417,"Brazoria County","Brazoria County","brazoria-county-tx",1358,286.9580265095729
+2023,12083,331298,389291,"Florida","FL",0.17504784212400915,"Marion County","Marion County","marion-county-fl",1588,245.14546599496222
+2023,48027,310235,388770,"Texas","TX",0.253146808064854,"Bell County","Bell County","bell-county-tx",1051,369.9048525214082
+2023,42077,349497,382075,"Pennsylvania","PA",0.09321396177935726,"Lehigh County","Lehigh County","lehigh-county-pa",345,1107.463768115942
+2023,26161,344791,380499,"Michigan","MI",0.10356418816036372,"Washtenaw County","Washtenaw County","washtenaw-county-mi",706,538.9504249291784
+2023,8035,285465,379731,"Colorado","CO",0.3302191161788661,"Douglas County","Douglas County","douglas-county-co",840,452.0607142857143
+2023,49011,306479,379539,"Utah","UT",0.23838501169737558,"Davis County","Davis County","davis-county-ut",299,1269.361204013378
+2023,51041,316236,379041,"Virginia","VA",0.19860167722839894,"Chesterfield County","Chesterfield County","chesterfield-county-va",423,896.0780141843971
+2023,8069,299630,376898,"Colorado","CO",0.2578780495944999,"Larimer County","Larimer County","larimer-county-co",2596,145.18412942989215
+2023,45051,269291,375551,"South Carolina","SC",0.39459172419427313,"Horry County","Horry County","horry-county-sc",1134,331.173721340388
+2023,47065,336463,375129,"Tennessee","TN",0.11491902527172382,"Hamilton County","Hamilton County","hamilton-county-tn",542,692.119926199262
+2023,39151,375586,374634,"Ohio","OH",-0.002534705766455647,"Stark County","Stark County","stark-county-oh",575,651.5373913043478
+2023,27003,330844,373799,"Minnesota","MN",0.1298346048288619,"Anoka County","Anoka County","anoka-county-mn",423,883.6855791962175
+2023,18057,274569,369337,"Indiana","IN",0.3451518561818705,"Hamilton County","Hamilton County","hamilton-county-in",394,937.4035532994924
+2023,48167,291309,368493,"Texas","TX",0.26495576861682957,"Galveston County","Galveston County","galveston-county-tx",379,972.2770448548813
+2023,47149,262604,365150,"Tennessee","TN",0.39049671749097503,"Rutherford County","Rutherford County","rutherford-county-tn",619,589.903069466882
+2023,48355,340223,357066,"Texas","TX",0.04950576533626472,"Nueces County","Nueces County","nueces-county-tx",838,426.0930787589499
+2023,41047,315335,355094,"Oregon","OR",0.12608495726766766,"Marion County","Marion County","marion-county-or",1181,300.6723116003387
+2023,34035,323444,351937,"New Jersey","NJ",0.08809252915496968,"Somerset County","Somerset County","somerset-county-nj",302,1165.3543046357615
+2023,8123,252825,351829,"Colorado","CO",0.39159102145753,"Weld County","Weld County","weld-county-co",3987,88.24404314020566
+2023,42129,365169,351510,"Pennsylvania","PA",-0.03740459896650594,"Westmoreland County","Westmoreland County","westmoreland-county-pa",1028,341.93579766536965
+2023,36087,311687,346321,"New York","NY",0.11111788428776315,"Rockland County","Rockland County","rockland-county-ny",174,1990.3505747126437
+2023,24027,287085,345886,"Maryland","MD",0.2048208718672171,"Howard County","Howard County","howard-county-md",251,1378.03187250996
+2023,12111,277789,344658,"Florida","FL",0.24071867496553145,"St. Lucie County","St. Lucie County","st-lucie-county-fl",572,602.548951048951
+2023,51087,306935,342624,"Virginia","VA",0.11627543290924791,"Henrico County","Henrico County","henrico-county-va",234,1464.2051282051282
+2023,37063,267587,342008,"North Carolina","NC",0.2781188921733866,"Durham County","Durham County","durham-county-nc",286,1195.832167832168
+2023,8013,294567,341615,"Colorado","CO",0.15971918103521432,"Boulder County","Boulder County","boulder-county-co",726,470.54407713498625
+2023,45083,284307,341104,"South Carolina","SC",0.19977348429690434,"Spartanburg County","Spartanburg County","spartanburg-county-sc",808,422.15841584158414
+2023,37051,319431,339318,"North Carolina","NC",0.062257576753665056,"Cumberland County","Cumberland County","cumberland-county-nc",652,520.4263803680982
+2023,31109,285407,333768,"Nebraska","NE",0.16944573889217862,"Lancaster County","Lancaster County","lancaster-county-ne",838,398.291169451074
+2023,21067,295803,330601,"Kentucky","KY",0.11763910440394443,"Fayette County","Fayette County","fayette-county-ky",284,1164.088028169014
+2023,12033,297619,329192,"Florida","FL",0.10608529697364744,"Escambia County","Escambia County","escambia-county-fl",657,501.05327245053275
+2023,42079,320918,326998,"Pennsylvania","PA",0.018945649667516218,"Luzerne County","Luzerne County","luzerne-county-pa",890,367.4134831460674
+2023,48303,278831,320182,"Texas","TX",0.14830130078793258,"Lubbock County","Lubbock County","lubbock-county-tx",896,357.34598214285717
+2023,33015,295223,319861,"New Hampshire","NH",0.0834555573244633,"Rockingham County","Rockingham County","rockingham-county-nh",695,460.231654676259
+2023,36001,304204,318040,"New York","NY",0.045482636651720476,"Albany County","Albany County","albany-county-ny",523,608.1070745697897
+2023,42095,297735,317517,"Pennsylvania","PA",0.06644163433926131,"Northampton County","Northampton County","northampton-county-pa",370,858.1540540540541
+2023,39093,301356,316447,"Ohio","OH",0.05007698535950844,"Lorain County","Lorain County","lorain-county-oh",491,644.4949083503055
+2023,17111,308760,310670,"Illinois","IL",0.006186034460422318,"McHenry County","McHenry County","mchenry-county-il",603,515.2072968490879
+2023,23005,281674,309489,"Maine","ME",0.0987489083124462,"Cumberland County","Cumberland County","cumberland-county-me",836,370.20215311004785
+2023,13063,259424,309046,"Georgia","GA",0.19127759960527935,"Clayton County","Clayton County","clayton-county-ga",142,2176.3802816901407
+2023,53067,252264,307552,"Washington","WA",0.2191672216408207,"Thurston County","Thurston County","thurston-county-wa",722,425.97229916897504
+2023,40027,255755,307459,"Oklahoma","OK",0.20216222556743757,"Cleveland County","Cleveland County","cleveland-county-ok",539,570.4248608534323
+2023,34015,288288,306497,"New Jersey","NJ",0.06316253191253196,"Gloucester County","Gloucester County","gloucester-county-nj",322,951.8540372670808
+2023,29077,275174,306037,"Missouri","MO",0.1121581254042896,"Greene County","Greene County","greene-county-mo",675,453.38814814814816
+2023,26139,263801,305920,"Michigan","MI",0.15966201796050816,"Ottawa County","Ottawa County","ottawa-county-mi",564,542.4113475177305
+2023,13051,265128,304339,"Georgia","GA",0.1478946018526901,"Chatham County","Chatham County","chatham-county-ga",429,709.4149184149184
+2023,45063,262391,303471,"South Carolina","SC",0.15656024787435552,"Lexington County","Lexington County","lexington-county-sc",699,434.15021459227466
+2023,5007,221339,303230,"Arkansas","AR",0.3699799854521797,"Benton County","Benton County","benton-county-ar",847,358.0047225501771
+2023,45091,226073,298896,"South Carolina","SC",0.3221216155843467,"York County","York County","york-county-sc",681,438.90748898678413
+2023,12109,190039,298442,"Florida","FL",0.5704250180226165,"St. Johns County","St. Johns County","st-johns-county-fl",601,496.5757071547421
+2023,12073,275487,297211,"Florida","FL",0.07885671556189577,"Leon County","Leon County","leon-county-fl",667,445.5937031484258
+2023,29510,319294,296262,"Missouri","MO",-0.07213414595952317,"St. Louis City","St. Louis City","st-louis-city-mo",62,4778.419354838709
+2023,36027,297488,295437,"New York","NY",-0.006894395740332349,"Dutchess County","Dutchess County","dutchess-county-ny",796,371.15201005025125
+2023,42043,268100,291891,"Pennsylvania","PA",0.08873927638940704,"Dauphin County","Dauphin County","dauphin-county-pa",525,555.9828571428571
+2023,2020,291826,291073,"Alaska","AK",-0.002580304702117009,"Anchorage County","Anchorage County","anchorage-county-ak",1707,170.51728178090218
+2023,6047,255793,288825,"California","CA",0.1291356682942848,"Merced County","Merced County","merced-county-ca",1935,149.26356589147287
+2023,12001,247336,287807,"Florida","FL",0.16362761587476138,"Alachua County","Alachua County","alachua-county-fl",875,328.9222857142857
+2023,6079,269637,286261,"California","CA",0.061653259752927125,"San Luis Obispo County","San Luis Obispo County","san-luis-obispo-county-ca",3301,86.71947894577401
+2023,26065,280895,286100,"Michigan","MI",0.018530055714768956,"Ingham County","Ingham County","ingham-county-mi",556,514.568345323741
+2023,24021,233385,283216,"Maryland","MD",0.21351415043811728,"Frederick County","Frederick County","frederick-county-md",660,429.1151515151515
+2023,53035,251133,282955,"Washington","WA",0.1267137333604107,"Kitsap County","Kitsap County","kitsap-county-wa",395,716.3417721518987
+2023,17201,295266,282374,"Illinois","IL",-0.043662324818976805,"Winnebago County","Winnebago County","winnebago-county-il",513,550.4366471734893
+2023,13057,214346,282301,"Georgia","GA",0.31703414106164796,"Cherokee County","Cherokee County","cherokee-county-ga",422,668.9597156398104
+2023,37021,238318,278791,"North Carolina","NC",0.1698277091952769,"Buncombe County","Buncombe County","buncombe-county-nc",657,424.3394216133942
+2023,27163,238136,276397,"Minnesota","MN",0.1606686935196695,"Washington County","Washington County","washington-county-mn",384,719.7838541666666
+2023,55009,248007,274959,"Wisconsin","WI",0.10867435193361485,"Brown County","Brown County","brown-county-wi",530,518.7905660377359
+2023,18141,266931,274706,"Indiana","IN",0.029127377487065953,"St. Joseph County","St. Joseph County","st-joseph-county-in",458,599.7947598253276
+2023,34001,274549,274528,"New Jersey","NJ",-0.00007648907845225761,"Atlantic County","Atlantic County","atlantic-county-nj",556,493.75539568345323
+2023,13117,175511,274014,"Georgia","GA",0.5612354781181805,"Forsyth County","Forsyth County","forsyth-county-ga",224,1223.2767857142858
+2023,22103,233740,273819,"Louisiana","LA",0.1714682981090101,"St. Tammany Parish","St. Tammany Parish","st-tammany-parish-la",846,323.66312056737587
+2023,6087,262382,273405,"California","CA",0.04201126601672378,"Santa Cruz County","Santa Cruz County","santa-cruz-county-ca",445,614.3932584269663
+2023,48479,250304,272157,"Texas","TX",0.08730583610329834,"Webb County","Webb County","webb-county-tx",3361,80.97500743826242
+2023,49057,231236,271520,"Utah","UT",0.17421162794720546,"Weber County","Weber County","weber-county-ut",576,471.3888888888889
+2023,48309,234906,268280,"Texas","TX",0.1420738508169226,"McLennan County","McLennan County","mclennan-county-tx",1037,258.7078109932498
+2023,42049,280566,267969,"Pennsylvania","PA",-0.04489852654990267,"Erie County","Erie County","erie-county-pa",799,335.38047559449313
+2023,47187,183182,267088,"Tennessee","TN",0.4580471880424932,"Williamson County","Williamson County","williamson-county-tn",583,458.1269296740995
+2023,9011,274055,266905,"Connecticut","CT",-0.026089653536698787,"New London County","New London County","new-london-county-ct",665,401.3609022556391
+2023,42041,235406,266687,"Pennsylvania","PA",0.132881065053567,"Cumberland County","Cumberland County","cumberland-county-pa",545,489.3339449541284
+2023,48209,157107,266255,"Texas","TX",0.6947367081033946,"Hays County","Hays County","hays-county-tx",678,392.70648967551625
+2023,24025,244826,265754,"Maryland","MD",0.08548111720160434,"Harford County","Harford County","harford-county-md",437,608.1327231121281
+2023,6041,252409,265294,"California","CA",0.05104810050354791,"Marin County","Marin County","marin-county-ca",520,510.1807692307692
+2023,26077,250331,265072,"Michigan","MI",0.05888603488980593,"Kalamazoo County","Kalamazoo County","kalamazoo-county-mi",562,471.65836298932385
+2023,17119,269282,264833,"Illinois","IL",-0.016521713296841267,"Madison County","Madison County","madison-county-il",716,369.87849162011173
+2023,29047,221939,262755,"Missouri","MO",0.1839063886923884,"Clay County","Clay County","clay-county-mo",398,660.1884422110553
+2023,53077,243231,260778,"Washington","WA",0.07214129777865486,"Yakima County","Yakima County","yakima-county-wa",4296,60.702513966480446
+2023,5143,203065,258714,"Arkansas","AR",0.2740452564449807,"Washington County","Washington County","washington-county-ar",942,274.64331210191085
+2023,48245,252273,257801,"Texas","TX",0.021912769103312746,"Jefferson County","Jefferson County","jefferson-county-tx",876,294.2933789954338
+2023,51550,222209,257585,"Virginia","VA",0.15920147248761296,"Chesapeake City","Chesapeake City","chesapeake-city-va",341,755.3812316715542
+2023,17163,270056,253602,"Illinois","IL",-0.060928103800693134,"St. Clair County","St. Clair County","st-clair-county-il",658,385.4133738601824
+2023,13151,203922,251749,"Georgia","GA",0.23453575386667458,"Henry County","Henry County","henry-county-ga",319,789.1818181818181
+2023,39165,212693,251229,"Ohio","OH",0.1811813270770548,"Warren County","Warren County","warren-county-oh",401,626.5062344139651
+2023,10005,197145,249447,"Delaware","DE",0.2652971163356921,"Sussex County","Sussex County","sussex-county-de",936,266.50320512820514
+2023,37179,201292,249361,"North Carolina","NC",0.23880233690360275,"Union County","Union County","union-county-nc",632,394.5585443037975
+2023,51013,207627,247949,"Virginia","VA",0.19420402934107805,"Arlington County","Arlington County","arlington-county-va",26,9536.5
+2023,22055,221578,247807,"Louisiana","LA",0.11837366525557602,"Lafayette Parish","Lafayette Parish","lafayette-parish-la",269,921.2156133828996
+2023,1003,182265,246617,"Alabama","AL",0.3530683345677996,"Baldwin County","Baldwin County","baldwin-county-al",1590,155.1050314465409
+2023,48041,194851,245549,"Texas","TX",0.2601885543312583,"Brazos County","Brazos County","brazos-county-tx",586,419.0255972696246
+2023,45015,177843,245467,"South Carolina","SC",0.3802454974331293,"Berkeley County","Berkeley County","berkeley-county-sc",1099,223.35486806187444
+2023,4025,211033,243763,"Arizona","AZ",0.1550942269692417,"Yavapai County","Yavapai County","yavapai-county-az",8124,30.00529295913343
+2023,16027,188923,243759,"Idaho","ID",0.2902558185080695,"Canyon County","Canyon County","canyon-county-id",587,415.2623509369676
+2023,48423,209714,240607,"Texas","TX",0.14731014619910932,"Smith County","Smith County","smith-county-tx",922,260.9620390455531
+2023,36091,219607,240279,"New York","NY",0.09413178997026517,"Saratoga County","Saratoga County","saratoga-county-ny",810,296.64074074074074
+2023,37025,178011,240141,"North Carolina","NC",0.3490233749599745,"Cabarrus County","Cabarrus County","cabarrus-county-nc",362,663.3729281767955
+2023,1125,194656,236750,"Alabama","AL",0.2162481505835936,"Tuscaloosa County","Tuscaloosa County","tuscaloosa-county-al",1322,179.08472012102874
+2023,51710,242803,236565,"Virginia","VA",-0.025691610070715742,"Norfolk City","Norfolk City","norfolk-city-va",54,4380.833333333333
+2023,19113,211226,236020,"Iowa","IA",0.11738138297368694,"Linn County","Linn County","linn-county-ia",717,329.1771269177127
+2023,53073,201140,234560,"Washington","WA",0.1661529283086407,"Whatcom County","Whatcom County","whatcom-county-wa",2107,111.32415757000474
+2023,37071,206086,234501,"North Carolina","NC",0.13787933192938873,"Gaston County","Gaston County","gaston-county-nc",356,658.7106741573034
+2023,47125,172331,234391,"Tennessee","TN",0.36012093007061985,"Montgomery County","Montgomery County","montgomery-county-tn",539,434.8627087198516
+2023,39085,230041,233371,"Ohio","OH",0.0144756804221855,"Lake County","Lake County","lake-county-oh",228,1023.5570175438596
+2023,51760,204214,233330,"Virginia","VA",0.14257592525487972,"Richmond City","Richmond City","richmond-city-va",60,3888.8333333333335
+2023,25001,215888,232929,"Massachusetts","MA",0.07893444749129186,"Barnstable County","Barnstable County","barnstable-county-ma",394,591.1903553299493
+2023,22017,254969,232712,"Louisiana","LA",-0.08729296502712092,"Caddo Parish","Caddo Parish","caddo-parish-la",879,264.7463026166098
+2023,37129,202667,232614,"North Carolina","NC",0.1477645595977639,"New Hanover County","New Hanover County","new-hanover-county-nc",192,1211.53125
+2023,1117,195085,231406,"Alabama","AL",0.1861803829100135,"Shelby County","Shelby County","shelby-county-al",785,294.7847133757962
+2023,36065,234878,231300,"New York","NY",-0.015233440339239901,"Oneida County","Oneida County","oneida-county-ny",1212,190.84158415841586
+2023,37101,168878,230135,"North Carolina","NC",0.36272930754746024,"Johnston County","Johnston County","johnston-county-nc",791,290.94184576485463
+2023,41029,203206,229274,"Oregon","OR",0.1282836136728247,"Jackson County","Jackson County","jackson-county-or",2784,82.35416666666667
+2023,29099,218733,229142,"Missouri","MO",0.047587698243977794,"Jefferson County","Jefferson County","jefferson-county-mo",657,348.77016742770167
+2023,1101,229363,228831,"Alabama","AL",-0.002319467394479524,"Montgomery County","Montgomery County","montgomery-county-al",784,291.8762755102041
+2023,12019,190865,226459,"Florida","FL",0.1864878317135148,"Clay County","Clay County","clay-county-fl",605,374.3123966942149
+2023,39041,174214,226097,"Ohio","OH",0.29781188653035917,"Delaware County","Delaware County","delaware-county-oh",443,510.37697516930024
+2023,39099,238823,225551,"Ohio","OH",-0.05557253698345632,"Mahoning County","Mahoning County","mahoning-county-oh",412,547.4538834951456
+2023,22019,192768,223991,"Louisiana","LA",0.1619719040504648,"Calcasieu Parish","Calcasieu Parish","calcasieu-parish-la",1064,210.51785714285714
+2023,28049,245285,222480,"Mississippi","MS",-0.09297347982958604,"Hinds County","Hinds County","hinds-county-ms",870,255.72413793103448
+2023,6113,200849,221068,"California","CA",0.10066766575885366,"Yolo County","Yolo County","yolo-county-ca",1015,217.80098522167486
+2023,12091,180822,220923,"Florida","FL",0.22177058101337233,"Okaloosa County","Okaloosa County","okaloosa-county-fl",930,237.55161290322582
+2023,4015,200186,217191,"Arizona","AZ",0.08494600021979548,"Mohave County","Mohave County","mohave-county-az",13311,16.3166553977913
+2023,23031,197131,216424,"Maine","ME",0.09786892979795159,"York County","York County","york-county-me",991,218.38950554994955
+2023,53005,175177,216383,"Washington","WA",0.23522494391387005,"Benton County","Benton County","benton-county-wa",1700,127.28411764705882
+2023,42069,214437,216334,"Pennsylvania","PA",0.008846421093374746,"Lackawanna County","Lackawanna County","lackawanna-county-pa",459,471.31590413943354
+2023,28047,187105,215077,"Mississippi","MS",0.14949894444295975,"Harrison County","Harrison County","harrison-county-ms",574,374.698606271777
+2023,37133,177772,212616,"North Carolina","NC",0.19600387012577913,"Onslow County","Onslow County","onslow-county-nc",763,278.65792922673654
+2023,13215,189885,212034,"Georgia","GA",0.1166442846986333,"Muscogee County","Muscogee County","muscogee-county-ga",216,981.6388888888889
+2023,39025,197363,211973,"Ohio","OH",0.07402603324837997,"Clermont County","Clermont County","clermont-county-oh",452,468.966814159292
+2023,36063,216469,211526,"New York","NY",-0.02283467840660791,"Niagara County","Niagara County","niagara-county-ny",522,405.22222222222223
+2023,41017,157733,210409,"Oregon","OR",0.3339567496972733,"Deschutes County","Deschutes County","deschutes-county-or",3018,69.7180251822399
+2023,13139,179684,210171,"Georgia","GA",0.16967008748692147,"Hall County","Hall County","hall-county-ga",393,534.7862595419847
+2023,18039,197559,209894,"Indiana","IN",0.062437044123527574,"Elkhart County","Elkhart County","elkhart-county-in",463,453.3347732181426
+2023,42125,207820,209808,"Pennsylvania","PA",0.009565970551438818,"Washington County","Washington County","washington-county-pa",857,244.81680280046675
+2023,6007,220000,209121,"California","CA",-0.049449999999999994,"Butte County","Butte County","butte-county-ca",1636,127.82457212713936
+2023,45007,187126,208695,"South Carolina","SC",0.11526458108440307,"Anderson County","Anderson County","anderson-county-sc",715,291.8811188811189
+2023,13245,200549,208425,"Georgia","GA",0.039272197816992316,"Richmond County","Richmond County","richmond-county-ga",324,643.2870370370371
+2023,17019,201081,207299,"Illinois","IL",0.03092286193126159,"Champaign County","Champaign County","champaign-county-il",996,208.13152610441767
+2023,47165,160645,206973,"Tennessee","TN",0.28838743813999823,"Sumner County","Sumner County","sumner-county-tn",529,391.2533081285444
+2023,4027,195751,206320,"Arizona","AZ",0.053992061343236974,"Yuma County","Yuma County","yuma-county-az",5514,37.417482771128036
+2023,46099,169468,205539,"South Dakota","SD",0.21284844336393882,"Minnehaha County","Minnehaha County","minnehaha-county-sd",807,254.69516728624535
+2023,48139,149610,205307,"Texas","TX",0.3722812646213489,"Ellis County","Ellis County","ellis-county-tx",936,219.34508547008548
+2023,15001,185079,205294,"Hawaii","HI",0.10922362882877046,"Hawaii County","Hawaii County","hawaii-county-hi",4028,50.96673286991062
+2023,12053,172778,201037,"Florida","FL",0.16355670282096102,"Hernando County","Hernando County","hernando-county-fl",473,425.02536997885835
+2023,27137,200226,200231,"Minnesota","MN",0.000024971781886540256,"St. Louis County","St. Louis County","st-louis-county-mn",6248,32.04721510883483
+2023,31153,158840,200132,"Nebraska","NE",0.2599597078821456,"Sarpy County","Sarpy County","sarpy-county-ne",239,837.3723849372385
+2023,39155,210312,199475,"Ohio","OH",-0.05152820571341621,"Trumbull County","Trumbull County","trumbull-county-oh",618,322.77508090614884
+2023,12113,151372,198989,"Florida","FL",0.31456940517400844,"Santa Rosa County","Santa Rosa County","santa-rosa-county-fl",1012,196.62944664031622
+2023,55101,195408,198423,"Wisconsin","WI",0.01542925571112752,"Racine County","Racine County","racine-county-wi",333,595.8648648648649
+2023,36007,200600,198107,"New York","NY",-0.012427716849451653,"Broome County","Broome County","broome-county-ny",706,280.60481586402267
+2023,26093,180967,197736,"Michigan","MI",0.09266330325418437,"Livingston County","Livingston County","livingston-county-mi",565,349.97522123893805
+2023,42019,183862,196733,"Pennsylvania","PA",0.0700035896487583,"Butler County","Butler County","butler-county-pa",789,249.3447401774398
+2023,17167,197465,196007,"Illinois","IL",-0.007383586964778588,"Sangamon County","Sangamon County","sangamon-county-il",868,225.81451612903226
+2023,38017,149778,194950,"North Dakota","ND",0.30159302434269386,"Cass County","Cass County","cass-county-nd",1765,110.45325779036827
+2023,12015,159978,194908,"Florida","FL",0.21834252209678828,"Charlotte County","Charlotte County","charlotte-county-fl",681,286.20851688693097
+2023,55087,176695,194908,"Wisconsin","WI",0.10307592178612857,"Outagamie County","Outagamie County","outagamie-county-wi",638,305.4984326018809
+2023,37097,159437,194871,"North Carolina","NC",0.22224452291500718,"Iredell County","Iredell County","iredell-county-nc",574,339.4965156794425
+2023,45013,162233,194581,"South Carolina","SC",0.1993922321599182,"Beaufort County","Beaufort County","beaufort-county-sc",576,337.8142361111111
+2023,6017,181058,194224,"California","CA",0.07271702990202034,"El Dorado County","El Dorado County","el-dorado-county-ca",1708,113.71428571428571
+2023,49053,138115,192927,"Utah","UT",0.39685769105455604,"Washington County","Washington County","washington-county-ut",2427,79.4919653893696
+2023,28033,161252,192532,"Mississippi","MS",0.1939820901446183,"DeSoto County","DeSoto County","desoto-county-ms",476,404.47899159663865
+2023,18157,172780,190292,"Indiana","IN",0.10135432341706219,"Tippecanoe County","Tippecanoe County","tippecanoe-county-in",500,380.584
+2023,29019,162642,189901,"Missouri","MO",0.16760123461344545,"Boone County","Boone County","boone-county-mo",686,276.82361516034985
+2023,48251,150934,188624,"Texas","TX",0.24971179455921133,"Johnson County","Johnson County","johnson-county-tx",725,260.1710344827586
+2023,51700,180719,187906,"Virginia","VA",0.03976892302414248,"Newport News City","Newport News City","newport-news-city-va",69,2723.2753623188405
+2023,10001,162310,187713,"Delaware","DE",0.1565091491590167,"Kent County","Kent County","kent-county-de",586,320.32935153583617
+2023,26145,200169,187112,"Michigan","MI",-0.06522988075076563,"Saginaw County","Saginaw County","saginaw-county-mi",800,233.89
+2023,39103,172332,185512,"Ohio","OH",0.07648028224589742,"Medina County","Medina County","medina-county-oh",421,440.646080760095
+2023,48187,131533,185057,"Texas","TX",0.40692449803471376,"Guadalupe County","Guadalupe County","guadalupe-county-tx",711,260.2770745428973
+2023,1081,140247,184438,"Alabama","AL",0.31509408400892713,"Lee County","Lee County","lee-county-al",608,303.3519736842105
+2023,9005,189927,183764,"Connecticut","CT",-0.032449309471533794,"Litchfield County","Litchfield County","litchfield-county-ct",921,199.52660152008687
+2023,6089,177223,183634,"California","CA",0.03617476286937915,"Shasta County","Shasta County","shasta-county-ca",3775,48.64476821192053
+2023,18063,145448,183590,"Indiana","IN",0.2622380507122821,"Hendricks County","Hendricks County","hendricks-county-in",407,451.0810810810811
+2023,39089,166492,182128,"Ohio","OH",0.09391442231458558,"Licking County","Licking County","licking-county-oh",682,267.04985337243403
+2023,36111,182493,181659,"New York","NY",-0.004570038302838975,"Ulster County","Ulster County","ulster-county-ny",1124,161.61832740213524
+2023,6025,174528,181253,"California","CA",0.038532499083241634,"Imperial County","Imperial County","imperial-county-ca",4177,43.393105099353605
+2023,16055,138494,181223,"Idaho","ID",0.3085260011264026,"Kootenai County","Kootenai County","kootenai-county-id",1244,145.67765273311898
+2023,17143,186494,180432,"Illinois","IL",-0.03250506718714807,"Peoria County","Peoria County","peoria-county-il",619,291.48949919224555
+2023,18163,179703,180265,"Indiana","IN",0.0031273824031874398,"Vanderburgh County","Vanderburgh County","vanderburgh-county-in",233,773.6695278969958
+2023,48329,136872,179916,"Texas","TX",0.3144836051201123,"Midland County","Midland County","midland-county-tx",900,199.90666666666667
+2023,20177,177934,179203,"Kansas","KS",0.007131857879888015,"Shawnee County","Shawnee County","shawnee-county-ks",544,329.4172794117647
+2023,19163,165224,177501,"Iowa","IA",0.07430518568730937,"Scott County","Scott County","scott-county-ia",458,387.55676855895194
+2023,37001,151131,177499,"North Carolina","NC",0.17447115416426806,"Alamance County","Alamance County","alamance-county-nc",424,418.62971698113205
+2023,48091,108472,177410,"Texas","TX",0.6355372815104359,"Comal County","Comal County","comal-county-tx",560,316.80357142857144
+2023,12005,168852,177124,"Florida","FL",0.048989647738848285,"Bay County","Bay County","bay-county-fl",758,233.67282321899737
+2023,54039,193063,177049,"West Virginia","WV",-0.08294701729487264,"Kanawha County","Kanawha County","kanawha-county-wv",902,196.2849223946785
+2023,26121,172188,176916,"Michigan","MI",0.027458359467558813,"Muskegon County","Muskegon County","muskegon-county-mi",500,353.832
+2023,13223,142324,176563,"Georgia","GA",0.2405708102639048,"Paulding County","Paulding County","paulding-county-ga",312,565.9070512820513
+2023,18127,164343,175876,"Indiana","IN",0.07017639935987541,"Porter County","Porter County","porter-county-in",418,420.75598086124404
+2023,24013,167134,174619,"Maryland","MD",0.04478442447377562,"Carroll County","Carroll County","carroll-county-md",448,389.77455357142856
+2023,48135,137130,173583,"Texas","TX",0.2658280463793481,"Ector County","Ector County","ector-county-tx",898,193.29955456570156
+2023,55139,166994,173152,"Wisconsin","WI",0.03687557636801331,"Winnebago County","Winnebago County","winnebago-county-wi",434,398.96774193548384
+2023,20209,157505,172767,"Kansas","KS",0.096898511158376,"Wyandotte County","Wyandotte County","wyandotte-county-ks",152,1136.625
+2023,24017,146551,172638,"Maryland","MD",0.1780062913252043,"Charles County","Charles County","charles-county-md",458,376.93886462882097
+2023,21117,159720,171866,"Kentucky","KY",0.07604557976458803,"Kenton County","Kenton County","kenton-county-ky",160,1074.1625
+2023,50007,156545,171857,"Vermont","VT",0.0978121306972437,"Chittenden County","Chittenden County","chittenden-county-vt",537,320.0316573556797
+2023,44003,166158,171623,"Rhode Island","RI",0.03289038144416767,"Kent County","Kent County","kent-county-ri",169,1015.5207100591716
+2023,45003,160099,171421,"South Carolina","SC",0.07071874277790613,"Aiken County","Aiken County","aiken-county-sc",1071,160.05695611577966
+2023,17113,169572,171368,"Illinois","IL",0.010591371216946088,"McLean County","McLean County","mclean-county-il",1183,144.8588334742181
+2023,8101,159063,170892,"Colorado","CO",0.07436676034024248,"Pueblo County","Pueblo County","pueblo-county-co",2386,71.62279966471081
