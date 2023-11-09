@@ -1,0 +1,40 @@
+,county,county_ascii,county_full,county_fips,state_id,state_name,lat,lng,population,District,COUNTY,CTYNAME,TOT_POP,WHITE_POP
+0,Adams,Adams,Adams County,53001,WA,Washington,46.9834,-118.5606,20353,4,1,Adams County,165642,145704
+1,Asotin,Asotin,Asotin County,53003,WA,Washington,46.1918,-117.203,22285,5,3,Asotin County,179178,165888
+2,Benton,Benton,Benton County,53005,WA,Washington,46.2398,-119.5112,204551,4,5,Benton County,1675328,1501572
+3,Chelan,Chelan,Chelan County,53007,WA,Washington,47.8692,-120.619,78508,8,7,Chelan County,636014,591962
+4,Clallam,Clallam,Clallam County,53009,WA,Washington,48.0493,-123.928,76727,6,9,Clallam County,621528,537626
+5,Clark,Clark,Clark County,53011,WA,Washington,45.7792,-122.4825,496494,3,11,Clark County,4075954,3474526
+6,Columbia,Columbia,Columbia County,53013,WA,Washington,46.2975,-117.9078,3969,5,13,Columbia County,31884,28776
+7,Cowlitz,Cowlitz,Cowlitz County,53015,WA,Washington,46.1932,-122.681,109457,3,15,Cowlitz County,890726,806168
+8,Douglas,Douglas,Douglas County,53017,WA,Washington,47.7361,-119.6918,42622,8,17,Douglas County,347996,320036
+9,Ferry,Ferry,Ferry County,53019,WA,Washington,48.4703,-118.5166,7198,5,19,Ferry County,58178,44344
+10,Franklin,Franklin,Franklin County,53021,WA,Washington,46.5347,-118.899,95313,4,21,Franklin County,781386,699244
+11,Garfield,Garfield,Garfield County,53023,WA,Washington,46.4316,-117.5452,2278,5,23,Garfield County,18606,17062
+12,Grant,Grant,Grant County,53025,WA,Washington,47.2057,-119.4518,97874,4,25,Grant County,800596,730156
+13,Grays Harbor,Grays Harbor,Grays Harbor County,53027,WA,Washington,47.1503,-123.7735,74737,6,27,Grays Harbor County,610632,529248
+14,Island,Island,Island County,53029,WA,Washington,48.163,-122.5481,85938,2,29,Island County,696038,591440
+15,Jefferson,Jefferson,Jefferson County,53031,WA,Washington,47.7487,-123.596,32590,6,31,Jefferson County,266376,242286
+16,King,King,King County,53033,WA,Washington,47.4902,-121.8052,2240876,7,33,King County,18127176,11714772
+17,Kitsap,Kitsap,Kitsap County,53035,WA,Washington,47.613,-122.6716,273072,6,35,Kitsap County,2211342,1814044
+18,Kittitas,Kittitas,Kittitas County,53037,WA,Washington,47.1244,-120.6798,44147,8,37,Kittitas County,357690,327504
+19,Klickitat,Klickitat,Klickitat County,53039,WA,Washington,45.8738,-120.7891,22478,3,39,Klickitat County,183998,170452
+20,Lewis,Lewis,Lewis County,53041,WA,Washington,46.5778,-122.3927,81214,3,41,Lewis County,669306,613284
+21,Lincoln,Lincoln,Lincoln County,53043,WA,Washington,47.5763,-118.4187,10798,5,43,Lincoln County,89368,83150
+22,Mason,Mason,Mason County,53045,WA,Washington,47.3484,-123.1927,64964,6,45,Mason County,534292,465360
+23,Okanogan,Okanogan,Okanogan County,53047,WA,Washington,48.5488,-119.7408,41966,4,47,Okanogan County,340224,278120
+24,Pacific,Pacific,Pacific County,53049,WA,Washington,46.5557,-123.7041,22974,6,49,Pacific County,189880,170762
+25,Pend Oreille,Pend Oreille,Pend Oreille County,53051,WA,Washington,48.5323,-117.274,13302,5,51,Pend Oreille County,109990,99738
+26,Pierce,Pierce,Pierce County,53053,WA,Washington,47.0241,-122.1046,910225,10,53,Pierce County,7398480,5417388
+27,San Juan,San Juan,San Juan County,53055,WA,Washington,48.5782,-122.965,17631,2,55,San Juan County,145786,136596
+28,Skagit,Skagit,Skagit County,53057,WA,Washington,48.4794,-121.7302,128228,2,57,Skagit County,1043022,939068
+29,Skamania,Skamania,Skamania County,53059,WA,Washington,46.023,-121.9147,11973,3,59,Skamania County,97466,86544
+30,Snohomish,Snohomish,Snohomish County,53061,WA,Washington,48.0475,-121.6975,820024,1,61,Snohomish County,6667864,5015430
+31,Spokane,Spokane,Spokane County,53063,WA,Washington,47.6207,-117.404,531477,5,63,Spokane County,4351290,3850124
+32,Stevens,Stevens,Stevens County,53065,WA,Washington,48.3991,-117.8552,46057,5,65,Stevens County,377638,337208
+33,Thurston,Thurston,Thurston County,53067,WA,Washington,46.9258,-122.8332,290642,10,67,Thurston County,2375242,1919370
+34,Wahkiakum,Wahkiakum,Wahkiakum County,53069,WA,Washington,46.2918,-123.4244,4373,3,69,Wahkiakum County,36258,33076
+35,Walla Walla,Walla Walla,Walla Walla County,53071,WA,Washington,46.2298,-118.4784,62168,5,71,Walla Walla County,498506,454124
+36,Whatcom,Whatcom,Whatcom County,53073,WA,Washington,48.8259,-121.7199,224533,1,73,Whatcom County,1823336,1565160
+37,Whitman,Whitman,Whitman County,53075,WA,Washington,46.9012,-117.523,48197,5,75,Whitman County,373264,312788
+38,Yakima,Yakima,Yakima County,53077,WA,Washington,46.4571,-120.7385,255151,4,77,Yakima County,2054138,1779572
