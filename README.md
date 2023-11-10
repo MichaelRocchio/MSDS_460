@@ -14,3 +14,14 @@
 
 [Results Data](Group_Assign1/results_lp.csv) <br>
 [Results Text Output](Group_Assign1/results_lp_output.txt)
+
+
+## [Assignment 2](Group_Assign2/)
+
+### The linear programming code is here:
+
+[Jupyter Notebook](Group_Assign2/Linear_Program.ipynb)
+
+### The write up is in the following location:
+
+[Results Data](Group_Assign2/Assignment2.docx)
