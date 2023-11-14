@@ -21,6 +21,7 @@
 ### The linear programming code is here:
 
 [Jupyter Notebook](Group_Assign2/Assign2_final.ipynb)
+[PDF](Group_Assign2/Assign2_final.pdf)
 
 ### The write up is in the following location:
 
