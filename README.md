@@ -24,4 +24,4 @@
 
 ### The write up is in the following location:
 
-[Results Data](Group_Assign2/Assignment2.docx)
+[Write-Up](Group_Assign2/Assignment2.docx)
