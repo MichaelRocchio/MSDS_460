@@ -20,7 +20,7 @@
 
 ### The linear programming code is here:
 
-[Jupyter Notebook](Group_Assign2/Assign2_final.ipynb)
+[Jupyter Notebook](Group_Assign2/Assign2_final.ipynb) <br>
 [PDF](Group_Assign2/Assign2_final.pdf)
 
 ### The write up is in the following location:
