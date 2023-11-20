@@ -39,7 +39,7 @@
 The Jupyter notebook contains outputs from each code run and visual comparisons.
 
 * [Go Code](Group_Assign3/go_benchmarking.go)
-* [Python Code](Group_Assign3/python_benchmarking.go)
+* [Python Code](Group_Assign3/python_benchmarking.py)
 * [Julia Benchmarking Code](Group_Assign3/julia_benchmarking.julia)
 * [R Benchmarking Code](Group_Assign3/R_benchmarking.r)
 * [Postgres Benchmarking Code](Group_Assign3/postgres_benchmarking.sql)
