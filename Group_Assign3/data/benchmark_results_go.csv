@@ -1,0 +1,13 @@
+Task,Size,Time,Language
+Join,Large,0.092237,Go
+Aggregate,Small,0.000031,Go
+Join,Small,0.003243,Go
+Filter,Medium,0.000320,Go
+Join,Medium,0.011164,Go
+Sort,Large,2.119978,Go
+Filter,Large,0.003260,Go
+Aggregate,Large,0.003243,Go
+Sort,Small,0.015842,Go
+Filter,Small,0.000032,Go
+Sort,Medium,0.187276,Go
+Aggregate,Medium,0.000325,Go

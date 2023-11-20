@@ -1,0 +1,47 @@
+using CSV
+using DataFrames
+using Statistics
+using Dates
+
+dataset_small = CSV.read("data/dataset_small.csv", DataFrame)
+dataset_medium = CSV.read("data/dataset_medium.csv", DataFrame)
+dataset_large = CSV.read("data/dataset_large.csv", DataFrame)
+secondary_dataset = CSV.read("data/join_dataset.csv", DataFrame)
+
+function sort_dataset(dataset::DataFrame)
+    sort(dataset, :Value, rev=true)
+end
+
+function filter_dataset(dataset::DataFrame)
+    filter(row -> row[:Category] in ['A', 'B'], dataset)
+end
+
+function aggregate_dataset(dataset::DataFrame)
+    combine(groupby(dataset, :Category), :Value => mean)
+end
+
+function join_datasets(main_dataset::DataFrame, secondary_dataset::DataFrame)
+    innerjoin(main_dataset, secondary_dataset, on=:ID)
+end
+
+
+function benchmark_task(task_function, dataset::DataFrame, secondary_dataset::DataFrame=DataFrame())
+    start_time = time()
+    if ncol(secondary_dataset) == 0
+        result = task_function(dataset)
+    else
+        result = task_function(dataset, secondary_dataset)
+    end
+    end_time = time()
+    end_time - start_time
+end
+results = DataFrame(Task = String[], Size = String[], Time = Float64[], Language = String[])
+
+for (dataset, size) in zip([dataset_small, dataset_medium, dataset_large], ["Small", "Medium", "Large"])
+    push!(results, ["Sort", size, benchmark_task(sort_dataset, dataset), "Julia"])
+    push!(results, ["Filter", size, benchmark_task(filter_dataset, dataset), "Julia"])
+    push!(results, ["Aggregate", size, benchmark_task(aggregate_dataset, dataset), "Julia"])
+    push!(results, ["Join", size, benchmark_task(join_datasets, dataset, secondary_dataset), "Julia"])
+end
+
+CSV.write("data/benchmark_results_julia.csv", results)

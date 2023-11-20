@@ -1,0 +1,2 @@
+2023-11-20 02:48:59.168 PST [8230] FATAL:  lock file "postmaster.pid" already exists
+2023-11-20 02:48:59.168 PST [8230] HINT:  Is another postmaster (PID 7683) running in data directory "/Users/michaelrocchio/git/MSDS_460_Group/Group_Assign3/data/postgres"?

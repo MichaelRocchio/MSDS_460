@@ -1,0 +1,13 @@
+Task,Size,Time,Language
+Sort,Small,0.009602069854736328,Python
+Filter,Small,0.004136800765991211,Python
+Aggregate,Small,0.004024028778076172,Python
+Join,Small,0.007376909255981445,Python
+Sort,Medium,0.14297699928283691,Python
+Filter,Medium,0.03463411331176758,Python
+Aggregate,Medium,0.020637035369873047,Python
+Join,Medium,0.07560610771179199,Python
+Sort,Large,2.112412214279175,Python
+Filter,Large,0.3005340099334717,Python
+Aggregate,Large,0.221390962600708,Python
+Join,Large,1.173557996749878,Python

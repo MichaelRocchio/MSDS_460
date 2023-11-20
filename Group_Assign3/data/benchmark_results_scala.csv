@@ -1,0 +1,13 @@
+Task,Size,Time,Language
+Sort,Small,0.361348708,"Scala"
+Filter,Small,0.25906925,"Scala"
+Aggregate,Small,0.405203542,"Scala"
+Join,Small,0.264091209,"Scala"
+Sort,Medium,0.1541935,"Scala"
+Filter,Medium,0.229412042,"Scala"
+Aggregate,Medium,0.318969333,"Scala"
+Join,Medium,0.255706833,"Scala"
+Sort,Large,0.3850745,"Scala"
+Filter,Large,0.887208834,"Scala"
+Aggregate,Large,0.982455292,"Scala"
+Join,Large,1.26238175,"Scala"

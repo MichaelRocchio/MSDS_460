@@ -1,0 +1,13 @@
+Task,Size,Time,Language
+Sort,Small,0.49907493591308594,Julia
+Filter,Small,0.10686802864074707,Julia
+Aggregate,Small,1.4571871757507324,Julia
+Join,Small,0.16498017311096191,Julia
+Sort,Medium,0.1490919589996338,Julia
+Filter,Medium,0.10061192512512207,Julia
+Aggregate,Medium,0.0039768218994140625,Julia
+Join,Medium,0.010135889053344727,Julia
+Sort,Large,2.4337260723114014,Julia
+Filter,Large,0.8929581642150879,Julia
+Aggregate,Large,0.06057000160217285,Julia
+Join,Large,0.09377288818359375,Julia
