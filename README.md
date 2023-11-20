@@ -12,7 +12,7 @@
 
 ### The programming outputs are in the following files:
 
-[Results Data](Group_Assign1/results_lp.csv) <\br>
+[Results Data](Group_Assign1/results_lp.csv) <br>
 
 [Results Text Output](Group_Assign1/results_lp_output.txt) 
 
@@ -22,7 +22,7 @@
 
 ### The linear programming code is here:
 
-[Jupyter Notebook](Group_Assign2/Assign2_final.ipynb) <\br>
+[Jupyter Notebook](Group_Assign2/Assign2_final.ipynb) <br>
 [PDF](Group_Assign2/Assign2_final.pdf)
 
 ### The write up is in the following location:
@@ -35,7 +35,7 @@
 
 ### The output code is here:
 
-[Jupyter Notebook](Group_Assign2/Assign3.ipynb) <\br>
+[Jupyter Notebook](Group_Assign2/Assign3.ipynb) <br>
 The Jupyter notebook contains outputs from each code run and visual comparisons.
 
 * [Go Code](Group_Assign3/go_benchmarking.go)
