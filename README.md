@@ -36,7 +36,7 @@
 ### The output code is here:
 
 [Jupyter Notebook](Group_Assign2/Assign3.ipynb) <br>
-The Jupyter notebook contains outputs from each code run and visual comparisons.
+The Jupyter notebook contains synthetic data generations, benchmark outputs from each code run, and visual comparisons.
 
 * [Go Code](Group_Assign3/go_benchmarking.go)
 * [Python Code](Group_Assign3/python_benchmarking.py)
@@ -48,3 +48,7 @@ The Jupyter notebook contains outputs from each code run and visual comparisons.
 ### The write up is in the following location:
 
 [Write-Up](Group_Assign3/Assignment3_Writeup.pdf)
+
+### The full benchmark results are in the following location:
+
+[Results](Group_Assign3/data/combined_results.csv)
