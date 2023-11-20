@@ -1,1 +1,7 @@
-test.txt
+Group_Assign3/data/dataset_small.csv
+Group_Assign3/data/dataset_large.csv
+Group_Assign3/data/.DS_Store
+Group_Assign3/data/dataset_medium.csv
+Group_Assign3/data/join_dataset.csv
+Group_Assign3/data/postgres_db/*
+!Group_Assign3/data/postgres_db/postgresql.conf
