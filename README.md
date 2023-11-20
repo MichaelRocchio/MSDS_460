@@ -35,7 +35,7 @@
 
 ### The output code is here:
 
-[Jupyter Notebook](Group_Assign2/Assign3.ipynb) <br>
+[Jupyter Notebook](Group_Assign3/Assign3.ipynb) <br>
 The Jupyter notebook contains synthetic data generations, benchmark outputs from each code run, and visual comparisons.
 
 * [Go Code](Group_Assign3/go_benchmarking.go)
