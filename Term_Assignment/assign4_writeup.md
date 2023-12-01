@@ -25,6 +25,21 @@ The project involves a simulation of customer experiences in a burger shop. The 
 ## Data Overview
 
 1. **Menu Dataset** : The menu dataset includes items sold at the burger shop, each with a defined price, margin, gross profit, popularity, and preparation time. These variables play a crucial role in the simulation, affecting the profitability of orders and the time customers spend waiting.
+
+|ID |Item                 |Price  |Margin|Gross Profit Per Item|Popularity|Prep_Time|
+|---|---------------------|-------|------|---------------------|----------|---------|
+|1  |847 Burger Half-Pound|$8.00  |70%   |$5.60                |5         |0.5      |
+|2  |847 Burger Full-Pound|$10.00 |70%   |$7.00                |4         |1        |
+|3  |Milkshake Small      |$5.00  |80%   |$4.00                |2         |1.5      |
+|4  |Milkshake Large      |$7.00  |80%   |$5.60                |3         |2        |
+|5  |Drink Small          |$3.00  |90%   |$2.70                |3         |0.5      |
+|6  |Drink Large          |$4.00  |90%   |$3.60                |4         |0.75     |
+|7  |Fries Small          |$4.00  |70%   |$2.80                |5         |0.5      |
+|8  |Fries Large          |$7.00  |70%   |$4.90                |3         |1        |
+|9  |Ice Cream            |$9.00  |85%   |$7.65                |1         |2        |
+|10 |Peanuts              |$3.00  |80%   |$2.40                |2         |0.25     |
+
+
 2. **Customer Base Dataset** : The customer base dataset represents a sample of the burger shop's customers, detailing whether they are subscribers to the premium service and their price tolerance. This information is critical in simulating customer choices regarding subscription and their behavior in the ordering process.
 
 <br/>
@@ -47,6 +62,8 @@ The primary objective is to find the optimal premium subscription price. This pr
 <br/>
 
 # Results & Analysis
+
+**Optimal Solution $11.60**
 
 Using discrete event simulation methods, the project simulates the burger shop's operations, capturing detailed data on customer behavior, order details, wait times, and profitability. The simulation data revealed key insights:
 
