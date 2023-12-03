@@ -14,6 +14,8 @@
 
 [Write-Up](Assign1/Assign1_Writeup.pdf)
 
+---
+
 ## [Group Assignment 1](Group_Assign1/)
 
 ### The linear programming code is here:
@@ -84,6 +86,6 @@ The Jupyter notebook contains synthetic data generations, benchmark outputs from
 
 [Menu](Term_Assignment/menu.csv) <br>
 [Generated Customer Base](Term_Assignment/customer_base.csv) <br>
-[Jupyter Notebook](Term_Assignment/final_simulation.csv) <br>
+[Full Generated Sales Data](Term_Assignment/final_simulation.csv) <br>
 
 ---
