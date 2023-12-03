@@ -10,6 +10,10 @@
 
 [Jupyter Notebook](Assign1/assign1.ipynb) 
 
+## The write up is in the following location:
+
+[Write-Up](Assign1/Assign1_Writeup.pdf)
+
 ## [Group Assignment 1](Group_Assign1/)
 
 ### The linear programming code is here:
