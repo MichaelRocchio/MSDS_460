@@ -20,7 +20,7 @@ mainfont: Helvetica
 
 ## Abstract
 
-The project involves a simulation of customer experiences in a burger shop. The primary goal is to determine the optimal price for a premium subscription service. This service offers customers the benefit of shorter wait times by allowing them to order from a premium queue. The simulation incorporates various aspects such as customer wait times, item profitability, and customer price tolerance to identify the ideal subscription price that maximizes the shop's revenue without overburdening the premium queue.This report details a comprehensive benchmark study of database systems using Monte Carlo simulation. Our team utilized various programming languages, including Python, R, Julia, Go, and Scala, to compare the performance of different tasks like sorting, filtering, aggregation, and joining across three dataset sizes. The study's aim was to determine the efficiency of these languages in handling database operations, providing valuable insights for data scientists and engineers in choosing the most suitable technology for their need
+The project involves a simulation of customer experiences in a burger shop. The primary goal is to determine the optimal price for a premium subscription service. This service offers customers the benefit of shorter wait times by allowing them to order from a premium queue. The simulation incorporates various aspects such as customer wait times, item profitability, and customer price tolerance to identify the ideal subscription price that maximizes the shop's revenue without overburdening the premium queue.This report details a comprehensive benchmark study of database systems using Monte Carlo simulation. Our team utilized various programming languages, including Python, R, Julia, Go, and Scala, to compare the performance of different tasks like sorting, filtering, aggregation, and joining across three dataset sizes. The study's aim was to determine the efficiency of these languages in handling database operations, providing valuable insights for data scientists and engineers in choosing the most suitable technology for their need.
 
 ## Data Overview
 
@@ -64,7 +64,7 @@ The primary objective is to find the optimal premium subscription price. This pr
 
 # Results & Analysis
 
-**Optimal Solution $11.60**
+**Optimal Solution: $11.60**
 
 Using discrete event simulation methods, the project simulates the burger shop's operations, capturing detailed data on customer behavior, order details, wait times, and profitability. The simulation data revealed key insights:
 
@@ -142,7 +142,3 @@ Some challenges encountered included managing the complexity of the simulation l
 
 * **Explanation** : This bar chart shows the frequency of different quantities of items ordered per transaction. It gives a clear view of how many items are typically ordered in one go.
 * **Importance** : This graph provides insights into customer ordering behavior. Understanding common ordering patterns is essential for inventory management, staffing requirements, and preparing for peak times. It can also aid in tailoring marketing strategies and promotions to encourage higher-order quantities.
-* **Explanation** : This bar chart compares the number of customers who are subscribers to the premium service against those who are not.
-* **Importance** : This graph is important for assessing the popularity and penetration of the premium subscription service. A high number of subscribers may indicate a successful premium service, while a low number might suggest a need for re-evaluation of the service’s value proposition. This insight is crucial for strategic decisions regarding marketing, pricing of the subscription, and enhancing the service to attract more subscribers.
-
----

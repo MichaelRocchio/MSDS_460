@@ -52,3 +52,24 @@ The Jupyter notebook contains synthetic data generations, benchmark outputs from
 ### The full benchmark results are in the following location:
 
 [Results](Group_Assign3/data/combined_results.csv)
+
+---
+
+## [Term Assignment](Term_Assignnent/)
+
+### The linear programming code is here:
+
+[Jupyter Notebook](Term_Assignment/term_assign.ipynb) <br>
+
+### The write up is in the following location:
+
+[Write-Up](Term_Assignment/TermAssign_Writeup.pdf)
+[Presentation](Term_Assignment/final_presentation.pptx)
+
+### The Data is here:
+
+[Menu](Term_Assignment/menu.csv) <br>
+[Generated Customer Base](Term_Assignment/customer_base.csv) <br>
+[Jupyter Notebook](Term_Assignment/final_simulation.csv) <br>
+
+---
