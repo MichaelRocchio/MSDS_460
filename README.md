@@ -55,7 +55,7 @@ The Jupyter notebook contains synthetic data generations, benchmark outputs from
 
 ---
 
-## [Term Assignment](Term_Assignnent/)
+## [Term Assignment](Term_Assignment/)
 
 ### The linear programming code is here:
 
