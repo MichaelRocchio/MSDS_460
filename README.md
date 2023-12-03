@@ -4,11 +4,21 @@
 
 # MSDS_460_Group
 
-## [Assignment 1](Group_Assign1/)
+## [Assignment 1](Assign1/)
 
 ### The linear programming code is here:
 
-[Jupyter Notebook](Group_Assign1/Linear_Program.ipynb) 
+[Jupyter Notebook](Assign1/assign1.ipynb) 
+
+## [Group Assignment 1](Group_Assign1/)
+
+### The linear programming code is here:
+
+[Jupyter Notebook](Group_Assign1/Linear_Program.ipynb)
+
+### The write up is in the following location:
+
+[Write-Up](Assign1/Assign1_Writeup.pdf)
 
 ### The programming outputs are in the following files:
 
@@ -18,7 +28,7 @@
 
 ---
 
-## [Assignment 2](Group_Assign2/)
+## [Group Assignment 2](Group_Assign2/)
 
 ### The linear programming code is here:
 
@@ -31,7 +41,7 @@
 
 ---
 
-## [Assignment 3](Group_Assign3/)
+## [Group Assignment 3](Group_Assign3/)
 
 ### The output code is here:
 
