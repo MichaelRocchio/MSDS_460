@@ -77,7 +77,7 @@ The Jupyter notebook contains synthetic data generations, benchmark outputs from
 
 ### The write up is in the following location:
 
-[Write-Up](Term_Assignment/TermAssign_Writeup.pdf)
+[Write-Up](Term_Assignment/TermAssign_Writeup.pdf)  <br>
 [Presentation](Term_Assignment/final_presentation.pptx)
 
 ### The Data is here:
