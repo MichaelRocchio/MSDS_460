@@ -20,24 +20,24 @@ mainfont: Helvetica
 
 ## Abstract
 
-The project involves a simulation of customer experiences in a burger shop. The primary goal is to determine the optimal price for a premium subscription service. This service offers customers the benefit of shorter wait times by allowing them to order from a premium queue. The simulation incorporates various aspects such as customer wait times, item profitability, and customer price tolerance to identify the ideal subscription price that maximizes the shop's revenue without overburdening the premium queue.This report details a comprehensive benchmark study of database systems using Monte Carlo simulation. Our team utilized various programming languages, including Python, R, Julia, Go, and Scala, to compare the performance of different tasks like sorting, filtering, aggregation, and joining across three dataset sizes. The study's aim was to determine the efficiency of these languages in handling database operations, providing valuable insights for data scientists and engineers in choosing the most suitable technology for their need.
+The project involves a simulation of customer experiences in a burger shop. The primary goal is to determine the optimal price for a premium subscription service. This service offers customers the benefit of shorter wait times by allowing them to order from a premium queue. The simulation incorporates various aspects such as customer wait times, item profitability, and customer price tolerance to identify the ideal subscription price that maximizes the shop's profitability without overburdening the premium queue.
 
 ## Data Overview
 
 1. **Menu Dataset** : The menu dataset includes items sold at the burger shop, each with a defined price, margin, gross profit, popularity, and preparation time. These variables play a crucial role in the simulation, affecting the profitability of orders and the time customers spend waiting.
 
-|ID |Item                 |Price  |Margin|Gross Profit|Popularity|Prep-Time|
-|---|---------------------|-------|------|----------|---------|---------|
-|1  |847 Burger Half-Pound|$8.00  |70%   |$5.60                |5         |0.5      |
-|2  |847 Burger Full-Pound|$10.00 |70%   |$7.00                |4         |1        |
-|3  |Milkshake Small      |$5.00  |80%   |$4.00                |2         |1.5      |
-|4  |Milkshake Large      |$7.00  |80%   |$5.60                |3         |2        |
-|5  |Drink Small          |$3.00  |90%   |$2.70                |3         |0.5      |
-|6  |Drink Large          |$4.00  |90%   |$3.60                |4         |0.75     |
-|7  |Fries Small          |$4.00  |70%   |$2.80                |5         |0.5      |
-|8  |Fries Large          |$7.00  |70%   |$4.90                |3         |1        |
-|9  |Ice Cream            |$9.00  |85%   |$7.65                |1         |2        |
-|10 |Peanuts              |$3.00  |80%   |$2.40                |2         |0.25     |
+| ID | Item                  | Price               | Margin | Gross Profit | Popularity | Prep-Time |
+| -- | --------------------- | ------------------- | ------ | ------------ | ---------- | --------- |
+| 1  | 847 Burger Half-Pound | $8.00  |70% | $5.60 | 5      | 0.5          |            |           |
+| 2  | 847 Burger Full-Pound | $10.00 |70% | $7.00 | 4      | 1            |            |           |
+| 3  | Milkshake Small       | $5.00  |80% | $4.00 | 2      | 1.5          |            |           |
+| 4  | Milkshake Large       | $7.00  |80% | $5.60 | 3      | 2            |            |           |
+| 5  | Drink Small           | $3.00  |90% | $2.70 | 3      | 0.5          |            |           |
+| 6  | Drink Large           | $4.00  |90% | $3.60 | 4      | 0.75         |            |           |
+| 7  | Fries Small           | $4.00  |70% | $2.80 | 5      | 0.5          |            |           |
+| 8  | Fries Large           | $7.00  |70% | $4.90 | 3      | 1            |            |           |
+| 9  | Ice Cream             | $9.00  |85% | $7.65 | 1      | 2            |            |           |
+| 10 | Peanuts               | $3.00  |80% | $2.40 | 2      | 0.25         |            |           |
 
 ---
 
@@ -91,7 +91,6 @@ This type of graph can help visualize how varying the subscription price affects
 ---
 
 <br/>
-
 
 # Conclusion
 
